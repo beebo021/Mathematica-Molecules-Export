@@ -1,0 +1,2551 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[    116925,       2543]
+NotebookOptionsPosition[    115215,       2508]
+NotebookOutlinePosition[    115652,       2525]
+CellTagsIndexPosition[    115609,       2522]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[{
+ RowBox[{"mol1", "=", 
+  InterpretationBox[
+   RowBox[{
+    TagBox["Molecule",
+     "SummaryHead"], "[", 
+    DynamicModuleBox[{Typeset`open$$ = False, Typeset`embedState$$ = "Ready"}, 
+     TemplateBox[{
+       PaneSelectorBox[{False -> GridBox[{{
+             PaneBox[
+              ButtonBox[
+               DynamicBox[
+                FEPrivate`FrontEndResource[
+                "FEBitmaps", "SquarePlusIconMedium"]], 
+               ButtonFunction :> (Typeset`open$$ = True), Appearance -> None, 
+               BaseStyle -> {}, Evaluator -> Automatic, Method -> 
+               "Preemptive"], Alignment -> {Center, Center}, ImageSize -> 
+              Dynamic[{
+                Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                 AbsoluteCurrentValue[Magnification]}]], 
+             GraphicsBox[{
+               GraphicsComplexBox[CompressedData["
+1:eJxdVQtsU1UYbrutDNaydisVZ4CAiqIDopIZcHAPmU7AqQsoGT5iVm2MUFMe
+LsIGG+pcsOsAC+IiZg9xmBG3jgE+ssA5m7AyQEKmGU46HXOsKzNka+vaihMv
+3vMd423SNF/u//j+//v+29k252q7TqPRVMnf279vn6rNWNg3RD87/mis47Vz
+FNg3b4nnfNkoPTLW/bTNNECr2w7sTS3uFnhkICuDvXiDaviH50vAhd/98KD9
+zijVp1mkTv84Bdb09WRPN71J9e15uoKXIvTd9tSJkvkD0nZ66MqaeTfQX0J/
+YPDj9STU21pXc6Bazr949u+ER37tpjuHok2lYQf9cWO9pXmsXvDh9aSdJv/3
+tYvidL0x+1JFeYwWLFj+eyhTy+Zktrf9lB2m9bGHhprv1TL0B/9VJe8tzJur
+Y+gP7Nha3JCZE5eOlYRa8jfEKPDsWRHH2h1axusR1MP8vJ+E+TkfCfPy+YCp
+CqM/Qf4Ta599uW2jljC/Uj/Y6X7dY0kkmP+OFfl/Td+SJPCgZUbXNZpMUB/1
+oC/nL3CrMp+0bLj3yz/9eob9A2MfKScOb/M1JjHsAxj7MPbP31v3zWTWcjX4
+UeuFBOyHcX4MelxX+DPolavMJ/aJ+Osdc/rXz9QSxGuDRdeMR5MI4jk/An68
+P0F/PMc8yIc/UB/+UPbVQ//tf8wo9rej+Stb2bpU8nilI3CzcYSuSTrkWaI1
+CRwt6v/U3JAm4lPuub/UHU8j8Ffwa29CwGDgz3skVX0J9eG/o7f5y/HOBHtH
+n3tEahyzBysmmcgLR3STC0fGpZbNu89mbfgvH/32DIZmdTtTVfs3C/0ek126
+gpqFXsBcf4p47Ms5+n7Xc1qL0M9/+Z0tufsNjPtLYM5X9OPzsNZK19S428C8
+Cl+my19s/naPifF5oI+I5/yJir/Ql/MR/pBiv61saDMTfh9sVWXVhfFEC+H3
+IfIxD+dLVPwJ+MMv4LPP+OE210ED+cXW9MBimX9JYOlbgeRk0v5GUcYumT/q
+Ix56b3btHgzVWgj8D30+PvzHw8sujlN/V+Yn3tF04gsdXFoevkVd5qnTTtek
+iXj4Icf2qssjP59b0dvllvVPt54sy5PznU39xQ5Zf9wL4v2uCXt08JYEfwLD
+n4hX+VMCX/grvDz7fIvMbxP3X/0HM3LPyPyU/ViFHp8/Q9ILc6wEfgKGnxCv
+8pN4Xz7F9cL9Ea4n7hN6cL5CL85X6LFL2Z/Q62dlv0If5E96pTpvmttE+D4E
+5vsS/lX1Y+gH/9Yp+xD+Din7En5G/qa75DeSKZmhHzD64b6wD74vcX/7ni/t
+bJ1IF/9ftcP3rUx80sr+vx+ruO86/hz3sJ/n4x7w/+BpKjh3unwKiSyqifuy
+ztAplxdEvrhkAJaAqyKBcC9JYadWp9Tc7U1k0ZMnhr0BIzMfv7Jupoyxn6zt
+V336m3rG4wnioRee83yCfPDB+w71VO8bce//ALB7Ql0=
+                "], {{}, {
+                  RGBColor[0.4, 0.4, 0.4], {
+                   
+                   LineBox[{{1, 2}, {3, 4}, {1, 5}, {2, 6}, {2, 7}, {8, 9}, {
+                    6, 10}, {10, 11}, {10, 12}, {13, 14}, {11, 5}, {5, 15}, {
+                    16, 17}, {7, 18}, {7, 19}, {12, 20}, {21, 22}, {12, 23}, {
+                    24, 25}, {15, 26}, {15, 27}, {26, 28}, {29, 30}, {28, 
+                    31}, {31, 32}, {31, 33}, {33, 27}, {34, 35}, {18, 36}, {
+                    36, 37}, {38, 39}, {37, 40}, {37, 41}, {42, 43}, {41, 
+                    19}, {20, 44}, {45, 46}, {44, 47}, {47, 48}, {47, 49}, {
+                    50, 51}, {49, 23}, {52, 53}, {54, 55}, {53, 56}, {53, 
+                    57}, {58, 59}, {59, 60}, {61, 62}, {59, 63}, {64, 65}, {
+                    66, 67}, {65, 68}, {65, 69}, {70, 71}, {71, 72}, {73, 
+                    74}, {71, 75}, {76, 77}, {77, 78}, {79, 80}, {77, 81}, {
+                    82, 83}, {83, 84}, {85, 86}, {83, 87}, {56, 88}, {88, 
+                    89}, {90, 91}, {89, 92}, {92, 57}, {93, 94}, {60, 95}, {
+                    96, 97}, {95, 98}, {98, 99}, {99, 63}, {100, 101}, {78, 
+                    102}, {103, 104}, {102, 105}, {105, 106}, {106, 81}, {107,
+                     108}, {84, 109}, {109, 110}, {111, 112}, {110, 113}, {
+                    114, 115}, {113, 87}, {72, 116}, {116, 117}, {118, 119}, {
+                    117, 120}, {121, 122}, {120, 75}, {68, 123}, {123, 124}, {
+                    125, 126}, {124, 127}, {127, 69}, {128, 129}}]}}, {
+                  RGBColor[0.291989, 0.437977, 0.888609], {
+                   
+                   LineBox[{{32, 130}, {131, 52}, {132, 58}, {40, 133}, {134, 
+                    64}, {135, 70}, {48, 136}, {137, 82}, {138, 76}}]}}, {
+                  Opacity[0], 
+                  EdgeForm[None], {
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[1, 0.2], "1"], Annotation[#, 1, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[2, 0.2], "2"], Annotation[#, 2, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[6, 0.2], "3"], Annotation[#, 3, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[10, 0.2], "4"], Annotation[#, 4, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[11, 0.2], "5"], Annotation[#, 5, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[5, 0.2], "6"], Annotation[#, 6, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[7, 0.2], "7"], Annotation[#, 7, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[12, 0.2], "8"], Annotation[#, 8, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[15, 0.2], "9"], Annotation[#, 9, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[26, 0.2], "10"], Annotation[#, 10, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[28, 0.2], "11"], Annotation[#, 11, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[31, 0.2], "12"], Annotation[#, 12, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[33, 0.2], "13"], Annotation[#, 13, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[27, 0.2], "14"], Annotation[#, 14, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[18, 0.2], "15"], Annotation[#, 15, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[36, 0.2], "16"], Annotation[#, 16, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[37, 0.2], "17"], Annotation[#, 17, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[41, 0.2], "18"], Annotation[#, 18, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[19, 0.2], "19"], Annotation[#, 19, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[20, 0.2], "20"], Annotation[#, 20, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[44, 0.2], "21"], Annotation[#, 21, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[47, 0.2], "22"], Annotation[#, 22, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[49, 0.2], "23"], Annotation[#, 23, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[23, 0.2], "24"], Annotation[#, 24, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[139, 0.2], "25"], Annotation[#, 25, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[140, 0.2], "26"], Annotation[#, 26, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[141, 0.2], "27"], Annotation[#, 27, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[53, 0.2], "28"], Annotation[#, 28, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[59, 0.2], "29"], Annotation[#, 29, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[65, 0.2], "30"], Annotation[#, 30, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[71, 0.2], "31"], Annotation[#, 31, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[77, 0.2], "32"], Annotation[#, 32, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[83, 0.2], "33"], Annotation[#, 33, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[56, 0.2], "34"], Annotation[#, 34, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[88, 0.2], "35"], Annotation[#, 35, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[89, 0.2], "36"], Annotation[#, 36, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[92, 0.2], "37"], Annotation[#, 37, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[57, 0.2], "38"], Annotation[#, 38, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[60, 0.2], "39"], Annotation[#, 39, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[95, 0.2], "40"], Annotation[#, 40, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[98, 0.2], "41"], Annotation[#, 41, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[99, 0.2], "42"], Annotation[#, 42, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[63, 0.2], "43"], Annotation[#, 43, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[78, 0.2], "44"], Annotation[#, 44, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[102, 0.2], "45"], Annotation[#, 45, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[105, 0.2], "46"], Annotation[#, 46, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[106, 0.2], "47"], Annotation[#, 47, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[81, 0.2], "48"], Annotation[#, 48, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[84, 0.2], "49"], Annotation[#, 49, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[109, 0.2], "50"], Annotation[#, 50, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[110, 0.2], "51"], Annotation[#, 51, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[113, 0.2], "52"], Annotation[#, 52, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[87, 0.2], "53"], Annotation[#, 53, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[72, 0.2], "54"], Annotation[#, 54, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[116, 0.2], "55"], Annotation[#, 55, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[117, 0.2], "56"], Annotation[#, 56, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[120, 0.2], "57"], Annotation[#, 57, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[75, 0.2], "58"], Annotation[#, 58, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[68, 0.2], "59"], Annotation[#, 59, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[123, 0.2], "60"], Annotation[#, 60, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[124, 0.2], "61"], Annotation[#, 61, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[127, 0.2], "62"], Annotation[#, 62, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[69, 0.2], "63"], 
+                    Annotation[#, 63, "Tooltip"]& ]}}}], {
+                GeometricTransformationBox[{
+                  RGBColor[0.291989, 0.437977, 0.888609], {
+                   
+                   FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
+                    0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
+                    0}}}, {{{0.261719, 4.5}, {0.261719, 11.6582}, {1.2334, 
+                    11.6582}, {4.99316, 6.03809}, {4.99316, 11.6582}, {
+                    5.90137, 11.6582}, {5.90137, 4.5}, {4.92969, 4.5}, {
+                    1.16992, 10.125}, {1.16992, 4.5}}}]}}, {{{{
+                   0.030000000000000002`, 0.}, {0., 
+                   0.030000000000000002`}}, {-0.092446335, 3.263827}}, {{{
+                   0.030000000000000002`, 0.}, {0., 
+                   0.030000000000000002`}}, {-3.664846335, -2.923573}}, {{{
+                   0.030000000000000002`, 0.}, {0., 0.030000000000000002`}}, {
+                   3.479953665, -2.923573}}}]}}, Frame -> True, FrameStyle -> 
+              Directive[
+                Opacity[0.5], 
+                Thickness[Tiny], 
+                GrayLevel[0.7]], FrameTicks -> None, ImageSize -> Dynamic[{
+                 UpTo[
+                 8.1 CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
+                  Magnification]], 
+                 UpTo[
+                 4.1 CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
+                  Magnification]]}], PlotRangePadding -> None], 
+             GridBox[{{
+                RowBox[{
+                  TagBox["\"Formula: \"", "SummaryItemAnnotation"], 
+                  "\[InvisibleSpace]", 
+                  TagBox[
+                   TemplateBox[{
+                    SubscriptBox["\"C\"", "60"], 
+                    SubscriptBox["\"H\"", "45"], 
+                    SubscriptBox["\"N\"", "3"]}, "RowDefault"], 
+                   "SummaryItem"]}]}, {
+                TagBox[
+                 TemplateBox[{
+                   RowBox[{
+                    TagBox["\"Atoms: \"", "SummaryItemAnnotation"], 
+                    "\[InvisibleSpace]", 
+                    TagBox["63", "SummaryItem"], "\[InvisibleSpace]", 
+                    TagBox[
+                    "\"\[ThinSpace](108)\"", "SummaryItemAnnotation"]}], 
+                   "\"  \"", 
+                   RowBox[{
+                    TagBox["\"Bonds: \"", "SummaryItemAnnotation"], 
+                    "\[InvisibleSpace]", 
+                    TagBox["72", "SummaryItem"], "\[InvisibleSpace]", 
+                    TagBox[
+                    
+                    TemplateBox[{"\"\[ThinSpace]\"", "\"(\"", "117", "\")\""},
+                     "RowDefault"], "SummaryItemAnnotation"]}]}, 
+                  "RowDefault"], "SummaryItem"]}}, 
+              GridBoxAlignment -> {
+               "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
+              False, GridBoxItemSize -> {
+               "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+              GridBoxSpacings -> {
+               "Columns" -> {{2}}, "Rows" -> {{Automatic}}}, 
+              BaseStyle -> {
+               ShowStringCharacters -> False, NumberMarks -> False, 
+                PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
+           GridBoxAlignment -> {"Rows" -> {{Top}}}, AutoDelete -> False, 
+           GridBoxItemSize -> {
+            "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+           BaselinePosition -> {1, 1}], True -> GridBox[{{
+             PaneBox[
+              ButtonBox[
+               DynamicBox[
+                FEPrivate`FrontEndResource[
+                "FEBitmaps", "SquareMinusIconMedium"]], 
+               ButtonFunction :> (Typeset`open$$ = False), Appearance -> None,
+                BaseStyle -> {}, Evaluator -> Automatic, Method -> 
+               "Preemptive"], Alignment -> {Center, Center}, ImageSize -> 
+              Dynamic[{
+                Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                 AbsoluteCurrentValue[Magnification]}]], 
+             GraphicsBox[{
+               GraphicsComplexBox[CompressedData["
+1:eJxdVQtsU1UYbrutDNaydisVZ4CAiqIDopIZcHAPmU7AqQsoGT5iVm2MUFMe
+LsIGG+pcsOsAC+IiZg9xmBG3jgE+ssA5m7AyQEKmGU46HXOsKzNka+vaihMv
+3vMd423SNF/u//j+//v+29k252q7TqPRVMnf279vn6rNWNg3RD87/mis47Vz
+FNg3b4nnfNkoPTLW/bTNNECr2w7sTS3uFnhkICuDvXiDaviH50vAhd/98KD9
+zijVp1mkTv84Bdb09WRPN71J9e15uoKXIvTd9tSJkvkD0nZ66MqaeTfQX0J/
+YPDj9STU21pXc6Bazr949u+ER37tpjuHok2lYQf9cWO9pXmsXvDh9aSdJv/3
+tYvidL0x+1JFeYwWLFj+eyhTy+Zktrf9lB2m9bGHhprv1TL0B/9VJe8tzJur
+Y+gP7Nha3JCZE5eOlYRa8jfEKPDsWRHH2h1axusR1MP8vJ+E+TkfCfPy+YCp
+CqM/Qf4Ta599uW2jljC/Uj/Y6X7dY0kkmP+OFfl/Td+SJPCgZUbXNZpMUB/1
+oC/nL3CrMp+0bLj3yz/9eob9A2MfKScOb/M1JjHsAxj7MPbP31v3zWTWcjX4
+UeuFBOyHcX4MelxX+DPolavMJ/aJ+Osdc/rXz9QSxGuDRdeMR5MI4jk/An68
+P0F/PMc8yIc/UB/+UPbVQ//tf8wo9rej+Stb2bpU8nilI3CzcYSuSTrkWaI1
+CRwt6v/U3JAm4lPuub/UHU8j8Ffwa29CwGDgz3skVX0J9eG/o7f5y/HOBHtH
+n3tEahyzBysmmcgLR3STC0fGpZbNu89mbfgvH/32DIZmdTtTVfs3C/0ek126
+gpqFXsBcf4p47Ms5+n7Xc1qL0M9/+Z0tufsNjPtLYM5X9OPzsNZK19S428C8
+Cl+my19s/naPifF5oI+I5/yJir/Ql/MR/pBiv61saDMTfh9sVWXVhfFEC+H3
+IfIxD+dLVPwJ+MMv4LPP+OE210ED+cXW9MBimX9JYOlbgeRk0v5GUcYumT/q
+Ix56b3btHgzVWgj8D30+PvzHw8sujlN/V+Yn3tF04gsdXFoevkVd5qnTTtek
+iXj4Icf2qssjP59b0dvllvVPt54sy5PznU39xQ5Zf9wL4v2uCXt08JYEfwLD
+n4hX+VMCX/grvDz7fIvMbxP3X/0HM3LPyPyU/ViFHp8/Q9ILc6wEfgKGnxCv
+8pN4Xz7F9cL9Ea4n7hN6cL5CL85X6LFL2Z/Q62dlv0If5E96pTpvmttE+D4E
+5vsS/lX1Y+gH/9Yp+xD+Din7En5G/qa75DeSKZmhHzD64b6wD74vcX/7ni/t
+bJ1IF/9ftcP3rUx80sr+vx+ruO86/hz3sJ/n4x7w/+BpKjh3unwKiSyqifuy
+ztAplxdEvrhkAJaAqyKBcC9JYadWp9Tc7U1k0ZMnhr0BIzMfv7Jupoyxn6zt
+V336m3rG4wnioRee83yCfPDB+w71VO8bce//ALB7Ql0=
+                "], {{}, {
+                  RGBColor[0.4, 0.4, 0.4], {
+                   
+                   LineBox[{{1, 2}, {3, 4}, {1, 5}, {2, 6}, {2, 7}, {8, 9}, {
+                    6, 10}, {10, 11}, {10, 12}, {13, 14}, {11, 5}, {5, 15}, {
+                    16, 17}, {7, 18}, {7, 19}, {12, 20}, {21, 22}, {12, 23}, {
+                    24, 25}, {15, 26}, {15, 27}, {26, 28}, {29, 30}, {28, 
+                    31}, {31, 32}, {31, 33}, {33, 27}, {34, 35}, {18, 36}, {
+                    36, 37}, {38, 39}, {37, 40}, {37, 41}, {42, 43}, {41, 
+                    19}, {20, 44}, {45, 46}, {44, 47}, {47, 48}, {47, 49}, {
+                    50, 51}, {49, 23}, {52, 53}, {54, 55}, {53, 56}, {53, 
+                    57}, {58, 59}, {59, 60}, {61, 62}, {59, 63}, {64, 65}, {
+                    66, 67}, {65, 68}, {65, 69}, {70, 71}, {71, 72}, {73, 
+                    74}, {71, 75}, {76, 77}, {77, 78}, {79, 80}, {77, 81}, {
+                    82, 83}, {83, 84}, {85, 86}, {83, 87}, {56, 88}, {88, 
+                    89}, {90, 91}, {89, 92}, {92, 57}, {93, 94}, {60, 95}, {
+                    96, 97}, {95, 98}, {98, 99}, {99, 63}, {100, 101}, {78, 
+                    102}, {103, 104}, {102, 105}, {105, 106}, {106, 81}, {107,
+                     108}, {84, 109}, {109, 110}, {111, 112}, {110, 113}, {
+                    114, 115}, {113, 87}, {72, 116}, {116, 117}, {118, 119}, {
+                    117, 120}, {121, 122}, {120, 75}, {68, 123}, {123, 124}, {
+                    125, 126}, {124, 127}, {127, 69}, {128, 129}}]}}, {
+                  RGBColor[0.291989, 0.437977, 0.888609], {
+                   
+                   LineBox[{{32, 130}, {131, 52}, {132, 58}, {40, 133}, {134, 
+                    64}, {135, 70}, {48, 136}, {137, 82}, {138, 76}}]}}, {
+                  Opacity[0], 
+                  EdgeForm[None], {
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[1, 0.2], "1"], Annotation[#, 1, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[2, 0.2], "2"], Annotation[#, 2, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[6, 0.2], "3"], Annotation[#, 3, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[10, 0.2], "4"], Annotation[#, 4, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[11, 0.2], "5"], Annotation[#, 5, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[5, 0.2], "6"], Annotation[#, 6, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[7, 0.2], "7"], Annotation[#, 7, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[12, 0.2], "8"], Annotation[#, 8, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[15, 0.2], "9"], Annotation[#, 9, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[26, 0.2], "10"], Annotation[#, 10, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[28, 0.2], "11"], Annotation[#, 11, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[31, 0.2], "12"], Annotation[#, 12, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[33, 0.2], "13"], Annotation[#, 13, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[27, 0.2], "14"], Annotation[#, 14, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[18, 0.2], "15"], Annotation[#, 15, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[36, 0.2], "16"], Annotation[#, 16, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[37, 0.2], "17"], Annotation[#, 17, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[41, 0.2], "18"], Annotation[#, 18, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[19, 0.2], "19"], Annotation[#, 19, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[20, 0.2], "20"], Annotation[#, 20, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[44, 0.2], "21"], Annotation[#, 21, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[47, 0.2], "22"], Annotation[#, 22, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[49, 0.2], "23"], Annotation[#, 23, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[23, 0.2], "24"], Annotation[#, 24, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[139, 0.2], "25"], Annotation[#, 25, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[140, 0.2], "26"], Annotation[#, 26, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[141, 0.2], "27"], Annotation[#, 27, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[53, 0.2], "28"], Annotation[#, 28, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[59, 0.2], "29"], Annotation[#, 29, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[65, 0.2], "30"], Annotation[#, 30, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[71, 0.2], "31"], Annotation[#, 31, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[77, 0.2], "32"], Annotation[#, 32, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[83, 0.2], "33"], Annotation[#, 33, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[56, 0.2], "34"], Annotation[#, 34, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[88, 0.2], "35"], Annotation[#, 35, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[89, 0.2], "36"], Annotation[#, 36, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[92, 0.2], "37"], Annotation[#, 37, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[57, 0.2], "38"], Annotation[#, 38, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[60, 0.2], "39"], Annotation[#, 39, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[95, 0.2], "40"], Annotation[#, 40, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[98, 0.2], "41"], Annotation[#, 41, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[99, 0.2], "42"], Annotation[#, 42, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[63, 0.2], "43"], Annotation[#, 43, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[78, 0.2], "44"], Annotation[#, 44, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[102, 0.2], "45"], Annotation[#, 45, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[105, 0.2], "46"], Annotation[#, 46, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[106, 0.2], "47"], Annotation[#, 47, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[81, 0.2], "48"], Annotation[#, 48, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[84, 0.2], "49"], Annotation[#, 49, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[109, 0.2], "50"], Annotation[#, 50, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[110, 0.2], "51"], Annotation[#, 51, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[113, 0.2], "52"], Annotation[#, 52, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[87, 0.2], "53"], Annotation[#, 53, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[72, 0.2], "54"], Annotation[#, 54, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[116, 0.2], "55"], Annotation[#, 55, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[117, 0.2], "56"], Annotation[#, 56, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[120, 0.2], "57"], Annotation[#, 57, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[75, 0.2], "58"], Annotation[#, 58, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[68, 0.2], "59"], Annotation[#, 59, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[123, 0.2], "60"], Annotation[#, 60, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[124, 0.2], "61"], Annotation[#, 61, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[127, 0.2], "62"], Annotation[#, 62, "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    DiskBox[69, 0.2], "63"], 
+                    Annotation[#, 63, "Tooltip"]& ]}}}], {
+                GeometricTransformationBox[{
+                  RGBColor[0.291989, 0.437977, 0.888609], {
+                   
+                   FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
+                    0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
+                    0}}}, {{{0.261719, 4.5}, {0.261719, 11.6582}, {1.2334, 
+                    11.6582}, {4.99316, 6.03809}, {4.99316, 11.6582}, {
+                    5.90137, 11.6582}, {5.90137, 4.5}, {4.92969, 4.5}, {
+                    1.16992, 10.125}, {1.16992, 4.5}}}]}}, {{{{
+                   0.030000000000000002`, 0.}, {0., 
+                   0.030000000000000002`}}, {-0.092446335, 3.263827}}, {{{
+                   0.030000000000000002`, 0.}, {0., 
+                   0.030000000000000002`}}, {-3.664846335, -2.923573}}, {{{
+                   0.030000000000000002`, 0.}, {0., 0.030000000000000002`}}, {
+                   3.479953665, -2.923573}}}]}}, Frame -> True, FrameStyle -> 
+              Directive[
+                Opacity[0.5], 
+                Thickness[Tiny], 
+                GrayLevel[0.7]], FrameTicks -> None, ImageSize -> Dynamic[{
+                 UpTo[
+                 8.1 CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
+                  Magnification]], 
+                 UpTo[
+                 4.1 CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
+                  Magnification]]}], PlotRangePadding -> None], 
+             GridBox[{{
+                RowBox[{
+                  TagBox["\"Formula: \"", "SummaryItemAnnotation"], 
+                  "\[InvisibleSpace]", 
+                  TagBox[
+                   TemplateBox[{
+                    SubscriptBox["\"C\"", "60"], 
+                    SubscriptBox["\"H\"", "45"], 
+                    SubscriptBox["\"N\"", "3"]}, "RowDefault"], 
+                   "SummaryItem"]}]}, {
+                TagBox[
+                 TemplateBox[{
+                   RowBox[{
+                    TagBox["\"Atoms: \"", "SummaryItemAnnotation"], 
+                    "\[InvisibleSpace]", 
+                    TagBox["63", "SummaryItem"], "\[InvisibleSpace]", 
+                    TagBox[
+                    "\"\[ThinSpace](108)\"", "SummaryItemAnnotation"]}], 
+                   "\"  \"", 
+                   RowBox[{
+                    TagBox["\"Bonds: \"", "SummaryItemAnnotation"], 
+                    "\[InvisibleSpace]", 
+                    TagBox["72", "SummaryItem"], "\[InvisibleSpace]", 
+                    TagBox[
+                    
+                    TemplateBox[{"\"\[ThinSpace]\"", "\"(\"", "117", "\")\""},
+                     "RowDefault"], "SummaryItemAnnotation"]}]}, 
+                  "RowDefault"], "SummaryItem"]}, {
+                RowBox[{
+                  TagBox["\"SMILES: \"", "SummaryItemAnnotation"], 
+                  "\[InvisibleSpace]", 
+                  TagBox[
+                   PaneBox[
+                   "\"c1c(-c2ccc(N(c3ccccc3)c3ccccc3)cc2)cc(-c2ccc(N(c3ccccc3)\
+c3ccccc3)cc2)cc1-c1ccc(N(c2ccccc2)c2ccccc2)cc1\"", 
+                    ImageSize -> {{1, 300}, Automatic}, BaselinePosition -> 
+                    Baseline, ContentPadding -> False, FrameMargins -> 0, 
+                    StripOnInput -> True], "SummaryItem"]}]}, {
+                RowBox[{
+                  TagBox["\"InChIKey: \"", "SummaryItemAnnotation"], 
+                  "\[InvisibleSpace]", 
+                  TagBox[
+                  "\"XVMUGTFNHXHZIP-UHFFFAOYSA-N\"", "SummaryItem"]}]}}, 
+              GridBoxAlignment -> {
+               "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
+              False, GridBoxItemSize -> {
+               "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+              GridBoxSpacings -> {
+               "Columns" -> {{2}}, "Rows" -> {{Automatic}}}, 
+              BaseStyle -> {
+               ShowStringCharacters -> False, NumberMarks -> False, 
+                PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
+           GridBoxAlignment -> {"Rows" -> {{Top}}}, AutoDelete -> False, 
+           GridBoxItemSize -> {
+            "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+           BaselinePosition -> {1, 1}]}, 
+        Dynamic[Typeset`open$$], ImageSize -> Automatic]},
+      "SummaryPanel"],
+     DynamicModuleValues:>{}], "]"}],
+   Molecule[{
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["N"], 
+     Atom["N"], 
+     Atom["N"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"], 
+     Atom["C"]}, {
+     Bond[{1, 2}, "Aromatic"], 
+     Bond[{2, 3}, "Aromatic"], 
+     Bond[{3, 4}, "Aromatic"], 
+     Bond[{4, 5}, "Aromatic"], 
+     Bond[{5, 6}, "Aromatic"], 
+     Bond[{6, 1}, "Aromatic"], 
+     Bond[{2, 7}, "Single"], 
+     Bond[{4, 8}, "Single"], 
+     Bond[{6, 9}, "Single"], 
+     Bond[{9, 10}, "Aromatic"], 
+     Bond[{10, 11}, "Aromatic"], 
+     Bond[{11, 12}, "Aromatic"], 
+     Bond[{12, 13}, "Aromatic"], 
+     Bond[{13, 14}, "Aromatic"], 
+     Bond[{14, 9}, "Aromatic"], 
+     Bond[{7, 15}, "Aromatic"], 
+     Bond[{15, 16}, "Aromatic"], 
+     Bond[{16, 17}, "Aromatic"], 
+     Bond[{17, 18}, "Aromatic"], 
+     Bond[{18, 19}, "Aromatic"], 
+     Bond[{19, 7}, "Aromatic"], 
+     Bond[{8, 20}, "Aromatic"], 
+     Bond[{20, 21}, "Aromatic"], 
+     Bond[{21, 22}, "Aromatic"], 
+     Bond[{22, 23}, "Aromatic"], 
+     Bond[{23, 24}, "Aromatic"], 
+     Bond[{24, 8}, "Aromatic"], 
+     Bond[{12, 25}, "Single"], 
+     Bond[{17, 26}, "Single"], 
+     Bond[{22, 27}, "Single"], 
+     Bond[{25, 28}, "Single"], 
+     Bond[{25, 29}, "Single"], 
+     Bond[{26, 30}, "Single"], 
+     Bond[{26, 31}, "Single"], 
+     Bond[{27, 32}, "Single"], 
+     Bond[{27, 33}, "Single"], 
+     Bond[{28, 34}, "Aromatic"], 
+     Bond[{34, 35}, "Aromatic"], 
+     Bond[{35, 36}, "Aromatic"], 
+     Bond[{36, 37}, "Aromatic"], 
+     Bond[{37, 38}, "Aromatic"], 
+     Bond[{38, 28}, "Aromatic"], 
+     Bond[{29, 39}, "Aromatic"], 
+     Bond[{39, 40}, "Aromatic"], 
+     Bond[{40, 41}, "Aromatic"], 
+     Bond[{41, 42}, "Aromatic"], 
+     Bond[{42, 43}, "Aromatic"], 
+     Bond[{43, 29}, "Aromatic"], 
+     Bond[{32, 44}, "Aromatic"], 
+     Bond[{44, 45}, "Aromatic"], 
+     Bond[{45, 46}, "Aromatic"], 
+     Bond[{46, 47}, "Aromatic"], 
+     Bond[{47, 48}, "Aromatic"], 
+     Bond[{48, 32}, "Aromatic"], 
+     Bond[{33, 49}, "Aromatic"], 
+     Bond[{49, 50}, "Aromatic"], 
+     Bond[{50, 51}, "Aromatic"], 
+     Bond[{51, 52}, "Aromatic"], 
+     Bond[{52, 53}, "Aromatic"], 
+     Bond[{53, 33}, "Aromatic"], 
+     Bond[{31, 54}, "Aromatic"], 
+     Bond[{54, 55}, "Aromatic"], 
+     Bond[{55, 56}, "Aromatic"], 
+     Bond[{56, 57}, "Aromatic"], 
+     Bond[{57, 58}, "Aromatic"], 
+     Bond[{58, 31}, "Aromatic"], 
+     Bond[{30, 59}, "Aromatic"], 
+     Bond[{59, 60}, "Aromatic"], 
+     Bond[{60, 61}, "Aromatic"], 
+     Bond[{61, 62}, "Aromatic"], 
+     Bond[{62, 63}, "Aromatic"], 
+     Bond[{63, 30}, "Aromatic"]}, AtomDiagramCoordinates -> CompressedData["
+1:eJxdkk8oRFEYxd+MzMaUZpqePzuFyGKyUhbuXUmykGwsTWY9ZRYWYpJsJAux
+nlhrRGLnvSjC0kJqLJSG2U0WDFkY+X63fFOv6XTOPd93zr1dmdxUNup5nml8
+v/8LZ8XO9GMl2Dseqp/P3QTgq/7hrdtCLfDkN3txN5Dt+IA38GDOoxdsYsmU
+uSy/B5wXbMDoxc/gJ7zD44ur6YneqEXfNjb53Z5vtuwLD+b8bn2wUuqJhOw7
+8vqw/1WOhcwHy/kQvfiH7A/P/kpv0YufhQczD73u9/CpunMUj9vy/Up+dDvu
+5gt2/uRbKp1kCjOt5DXgP/+Ey4Of+Mu+Cat4C49/S3ff8sZn0pJ/fn3z+a2Y
+svQDD2Y++urpQdNLIw99kY/8//eNWDXPMI988Lna2vV0JKX69lXfvusbPX2T
+X90/+7j7knmuH9nH9QcP5jz9a6z8Qvx4f/BgfV7lUe/ZV+/Zd/ePnr5+AM/J
+3rs=
+     "]],
+   Editable->False,
+   SelectWithContents->True,
+   Selectable->False]}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"MoleculePlot3D", "@", "mol1"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{"MoleculeValue", "[", 
+  RowBox[{"mol1", ",", "\"\<AtomCoordinates\>\""}], "]"}]}], "Input",
+ CellChangeTimes->{{3.826894437576749*^9, 3.8268945158834286`*^9}, {
+  3.826894557666748*^9, 3.8268945693322973`*^9}},
+ CellLabel->"In[7]:=",ExpressionUUID->"48d29dee-9112-443c-8cd8-5a39cd962581"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   TagBox["Molecule",
+    "SummaryHead"], "[", 
+   DynamicModuleBox[{Typeset`open$$ = False, Typeset`embedState$$ = "Ready"}, 
+    TemplateBox[{
+      PaneSelectorBox[{False -> GridBox[{{
+            PaneBox[
+             ButtonBox[
+              DynamicBox[
+               FEPrivate`FrontEndResource[
+               "FEBitmaps", "SquarePlusIconMedium"]], 
+              ButtonFunction :> (Typeset`open$$ = True), Appearance -> None, 
+              BaseStyle -> {}, Evaluator -> Automatic, Method -> 
+              "Preemptive"], Alignment -> {Center, Center}, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}]], 
+            GraphicsBox[{
+              GraphicsComplexBox[CompressedData["
+1:eJxdVQtsU1UYbrutDNaydisVZ4CAiqIDopIZcHAPmU7AqQsoGT5iVm2MUFMe
+LsIGG+pcsOsAC+IiZg9xmBG3jgE+ssA5m7AyQEKmGU46HXOsKzNka+vaihMv
+3vMd423SNF/u//j+//v+29k252q7TqPRVMnf279vn6rNWNg3RD87/mis47Vz
+FNg3b4nnfNkoPTLW/bTNNECr2w7sTS3uFnhkICuDvXiDaviH50vAhd/98KD9
+zijVp1mkTv84Bdb09WRPN71J9e15uoKXIvTd9tSJkvkD0nZ66MqaeTfQX0J/
+YPDj9STU21pXc6Bazr949u+ER37tpjuHok2lYQf9cWO9pXmsXvDh9aSdJv/3
+tYvidL0x+1JFeYwWLFj+eyhTy+Zktrf9lB2m9bGHhprv1TL0B/9VJe8tzJur
+Y+gP7Nha3JCZE5eOlYRa8jfEKPDsWRHH2h1axusR1MP8vJ+E+TkfCfPy+YCp
+CqM/Qf4Ta599uW2jljC/Uj/Y6X7dY0kkmP+OFfl/Td+SJPCgZUbXNZpMUB/1
+oC/nL3CrMp+0bLj3yz/9eob9A2MfKScOb/M1JjHsAxj7MPbP31v3zWTWcjX4
+UeuFBOyHcX4MelxX+DPolavMJ/aJ+Osdc/rXz9QSxGuDRdeMR5MI4jk/An68
+P0F/PMc8yIc/UB/+UPbVQ//tf8wo9rej+Stb2bpU8nilI3CzcYSuSTrkWaI1
+CRwt6v/U3JAm4lPuub/UHU8j8Ffwa29CwGDgz3skVX0J9eG/o7f5y/HOBHtH
+n3tEahyzBysmmcgLR3STC0fGpZbNu89mbfgvH/32DIZmdTtTVfs3C/0ek126
+gpqFXsBcf4p47Ms5+n7Xc1qL0M9/+Z0tufsNjPtLYM5X9OPzsNZK19S428C8
+Cl+my19s/naPifF5oI+I5/yJir/Ql/MR/pBiv61saDMTfh9sVWXVhfFEC+H3
+IfIxD+dLVPwJ+MMv4LPP+OE210ED+cXW9MBimX9JYOlbgeRk0v5GUcYumT/q
+Ix56b3btHgzVWgj8D30+PvzHw8sujlN/V+Yn3tF04gsdXFoevkVd5qnTTtek
+iXj4Icf2qssjP59b0dvllvVPt54sy5PznU39xQ5Zf9wL4v2uCXt08JYEfwLD
+n4hX+VMCX/grvDz7fIvMbxP3X/0HM3LPyPyU/ViFHp8/Q9ILc6wEfgKGnxCv
+8pN4Xz7F9cL9Ea4n7hN6cL5CL85X6LFL2Z/Q62dlv0If5E96pTpvmttE+D4E
+5vsS/lX1Y+gH/9Yp+xD+Din7En5G/qa75DeSKZmhHzD64b6wD74vcX/7ni/t
+bJ1IF/9ftcP3rUx80sr+vx+ruO86/hz3sJ/n4x7w/+BpKjh3unwKiSyqifuy
+ztAplxdEvrhkAJaAqyKBcC9JYadWp9Tc7U1k0ZMnhr0BIzMfv7Jupoyxn6zt
+V336m3rG4wnioRee83yCfPDB+w71VO8bce//ALB7Ql0=
+               "], {{}, {
+                 RGBColor[0.4, 0.4, 0.4], {
+                  
+                  LineBox[{{1, 2}, {3, 4}, {1, 5}, {2, 6}, {2, 7}, {8, 9}, {6,
+                    10}, {10, 11}, {10, 12}, {13, 14}, {11, 5}, {5, 15}, {16, 
+                   17}, {7, 18}, {7, 19}, {12, 20}, {21, 22}, {12, 23}, {24, 
+                   25}, {15, 26}, {15, 27}, {26, 28}, {29, 30}, {28, 31}, {31,
+                    32}, {31, 33}, {33, 27}, {34, 35}, {18, 36}, {36, 37}, {
+                   38, 39}, {37, 40}, {37, 41}, {42, 43}, {41, 19}, {20, 
+                   44}, {45, 46}, {44, 47}, {47, 48}, {47, 49}, {50, 51}, {49,
+                    23}, {52, 53}, {54, 55}, {53, 56}, {53, 57}, {58, 59}, {
+                   59, 60}, {61, 62}, {59, 63}, {64, 65}, {66, 67}, {65, 
+                   68}, {65, 69}, {70, 71}, {71, 72}, {73, 74}, {71, 75}, {76,
+                    77}, {77, 78}, {79, 80}, {77, 81}, {82, 83}, {83, 84}, {
+                   85, 86}, {83, 87}, {56, 88}, {88, 89}, {90, 91}, {89, 
+                   92}, {92, 57}, {93, 94}, {60, 95}, {96, 97}, {95, 98}, {98,
+                    99}, {99, 63}, {100, 101}, {78, 102}, {103, 104}, {102, 
+                   105}, {105, 106}, {106, 81}, {107, 108}, {84, 109}, {109, 
+                   110}, {111, 112}, {110, 113}, {114, 115}, {113, 87}, {72, 
+                   116}, {116, 117}, {118, 119}, {117, 120}, {121, 122}, {120,
+                    75}, {68, 123}, {123, 124}, {125, 126}, {124, 127}, {127, 
+                   69}, {128, 129}}]}}, {
+                 RGBColor[0.291989, 0.437977, 0.888609], {
+                  
+                  LineBox[{{32, 130}, {131, 52}, {132, 58}, {40, 133}, {134, 
+                   64}, {135, 70}, {48, 136}, {137, 82}, {138, 76}}]}}, {
+                 Opacity[0], 
+                 EdgeForm[None], {
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[1, 0.2], "1"], Annotation[#, 1, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[2, 0.2], "2"], Annotation[#, 2, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[6, 0.2], "3"], Annotation[#, 3, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[10, 0.2], "4"], Annotation[#, 4, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[11, 0.2], "5"], Annotation[#, 5, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[5, 0.2], "6"], Annotation[#, 6, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[7, 0.2], "7"], Annotation[#, 7, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[12, 0.2], "8"], Annotation[#, 8, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[15, 0.2], "9"], Annotation[#, 9, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[26, 0.2], "10"], Annotation[#, 10, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[28, 0.2], "11"], Annotation[#, 11, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[31, 0.2], "12"], Annotation[#, 12, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[33, 0.2], "13"], Annotation[#, 13, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[27, 0.2], "14"], Annotation[#, 14, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[18, 0.2], "15"], Annotation[#, 15, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[36, 0.2], "16"], Annotation[#, 16, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[37, 0.2], "17"], Annotation[#, 17, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[41, 0.2], "18"], Annotation[#, 18, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[19, 0.2], "19"], Annotation[#, 19, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[20, 0.2], "20"], Annotation[#, 20, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[44, 0.2], "21"], Annotation[#, 21, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[47, 0.2], "22"], Annotation[#, 22, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[49, 0.2], "23"], Annotation[#, 23, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[23, 0.2], "24"], Annotation[#, 24, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[139, 0.2], "25"], Annotation[#, 25, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[140, 0.2], "26"], Annotation[#, 26, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[141, 0.2], "27"], Annotation[#, 27, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[53, 0.2], "28"], Annotation[#, 28, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[59, 0.2], "29"], Annotation[#, 29, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[65, 0.2], "30"], Annotation[#, 30, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[71, 0.2], "31"], Annotation[#, 31, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[77, 0.2], "32"], Annotation[#, 32, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[83, 0.2], "33"], Annotation[#, 33, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[56, 0.2], "34"], Annotation[#, 34, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[88, 0.2], "35"], Annotation[#, 35, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[89, 0.2], "36"], Annotation[#, 36, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[92, 0.2], "37"], Annotation[#, 37, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[57, 0.2], "38"], Annotation[#, 38, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[60, 0.2], "39"], Annotation[#, 39, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[95, 0.2], "40"], Annotation[#, 40, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[98, 0.2], "41"], Annotation[#, 41, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[99, 0.2], "42"], Annotation[#, 42, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[63, 0.2], "43"], Annotation[#, 43, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[78, 0.2], "44"], Annotation[#, 44, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[102, 0.2], "45"], Annotation[#, 45, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[105, 0.2], "46"], Annotation[#, 46, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[106, 0.2], "47"], Annotation[#, 47, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[81, 0.2], "48"], Annotation[#, 48, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[84, 0.2], "49"], Annotation[#, 49, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[109, 0.2], "50"], Annotation[#, 50, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[110, 0.2], "51"], Annotation[#, 51, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[113, 0.2], "52"], Annotation[#, 52, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[87, 0.2], "53"], Annotation[#, 53, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[72, 0.2], "54"], Annotation[#, 54, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[116, 0.2], "55"], Annotation[#, 55, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[117, 0.2], "56"], Annotation[#, 56, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[120, 0.2], "57"], Annotation[#, 57, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[75, 0.2], "58"], Annotation[#, 58, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[68, 0.2], "59"], Annotation[#, 59, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[123, 0.2], "60"], Annotation[#, 60, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[124, 0.2], "61"], Annotation[#, 61, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[127, 0.2], "62"], Annotation[#, 62, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[69, 0.2], "63"], 
+                   Annotation[#, 63, "Tooltip"]& ]}}}], {
+               GeometricTransformationBox[{
+                 RGBColor[0.291989, 0.437977, 0.888609], {
+                  
+                  FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
+                   0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
+                   0}}}, {{{0.261719, 4.5}, {0.261719, 11.6582}, {1.2334, 
+                   11.6582}, {4.99316, 6.03809}, {4.99316, 11.6582}, {5.90137,
+                    11.6582}, {5.90137, 4.5}, {4.92969, 4.5}, {1.16992, 
+                   10.125}, {1.16992, 4.5}}}]}}, {{{{0.030000000000000002`, 
+                  0.}, {0., 0.030000000000000002`}}, {-0.092446335, 
+                  3.263827}}, {{{0.030000000000000002`, 0.}, {0., 
+                  0.030000000000000002`}}, {-3.664846335, -2.923573}}, {{{
+                  0.030000000000000002`, 0.}, {0., 0.030000000000000002`}}, {
+                  3.479953665, -2.923573}}}]}}, Frame -> True, FrameStyle -> 
+             Directive[
+               Opacity[0.5], 
+               Thickness[Tiny], 
+               GrayLevel[0.7]], FrameTicks -> None, ImageSize -> Dynamic[{
+                UpTo[
+                8.1 CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
+                 Magnification]], 
+                UpTo[
+                4.1 CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
+                 Magnification]]}], PlotRangePadding -> None], 
+            GridBox[{{
+               RowBox[{
+                 TagBox["\"Formula: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  TemplateBox[{
+                    SubscriptBox["\"C\"", "60"], 
+                    SubscriptBox["\"H\"", "45"], 
+                    SubscriptBox["\"N\"", "3"]}, "RowDefault"], 
+                  "SummaryItem"]}]}, {
+               TagBox[
+                TemplateBox[{
+                  RowBox[{
+                    TagBox["\"Atoms: \"", "SummaryItemAnnotation"], 
+                    "\[InvisibleSpace]", 
+                    TagBox["63", "SummaryItem"], "\[InvisibleSpace]", 
+                    TagBox[
+                    "\"\[ThinSpace](108)\"", "SummaryItemAnnotation"]}], 
+                  "\"  \"", 
+                  RowBox[{
+                    TagBox["\"Bonds: \"", "SummaryItemAnnotation"], 
+                    "\[InvisibleSpace]", 
+                    TagBox["72", "SummaryItem"], "\[InvisibleSpace]", 
+                    TagBox[
+                    
+                    TemplateBox[{"\"\[ThinSpace]\"", "\"(\"", "117", "\")\""},
+                     "RowDefault"], "SummaryItemAnnotation"]}]}, 
+                 "RowDefault"], "SummaryItem"]}}, 
+             GridBoxAlignment -> {
+              "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
+             False, GridBoxItemSize -> {
+              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+             GridBoxSpacings -> {"Columns" -> {{2}}, "Rows" -> {{Automatic}}},
+              BaseStyle -> {
+              ShowStringCharacters -> False, NumberMarks -> False, 
+               PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
+          GridBoxAlignment -> {"Rows" -> {{Top}}}, AutoDelete -> False, 
+          GridBoxItemSize -> {
+           "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+          BaselinePosition -> {1, 1}], True -> GridBox[{{
+            PaneBox[
+             ButtonBox[
+              DynamicBox[
+               FEPrivate`FrontEndResource[
+               "FEBitmaps", "SquareMinusIconMedium"]], 
+              ButtonFunction :> (Typeset`open$$ = False), Appearance -> None, 
+              BaseStyle -> {}, Evaluator -> Automatic, Method -> 
+              "Preemptive"], Alignment -> {Center, Center}, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}]], 
+            GraphicsBox[{
+              GraphicsComplexBox[CompressedData["
+1:eJxdVQtsU1UYbrutDNaydisVZ4CAiqIDopIZcHAPmU7AqQsoGT5iVm2MUFMe
+LsIGG+pcsOsAC+IiZg9xmBG3jgE+ssA5m7AyQEKmGU46HXOsKzNka+vaihMv
+3vMd423SNF/u//j+//v+29k252q7TqPRVMnf279vn6rNWNg3RD87/mis47Vz
+FNg3b4nnfNkoPTLW/bTNNECr2w7sTS3uFnhkICuDvXiDaviH50vAhd/98KD9
+zijVp1mkTv84Bdb09WRPN71J9e15uoKXIvTd9tSJkvkD0nZ66MqaeTfQX0J/
+YPDj9STU21pXc6Bazr949u+ER37tpjuHok2lYQf9cWO9pXmsXvDh9aSdJv/3
+tYvidL0x+1JFeYwWLFj+eyhTy+Zktrf9lB2m9bGHhprv1TL0B/9VJe8tzJur
+Y+gP7Nha3JCZE5eOlYRa8jfEKPDsWRHH2h1axusR1MP8vJ+E+TkfCfPy+YCp
+CqM/Qf4Ta599uW2jljC/Uj/Y6X7dY0kkmP+OFfl/Td+SJPCgZUbXNZpMUB/1
+oC/nL3CrMp+0bLj3yz/9eob9A2MfKScOb/M1JjHsAxj7MPbP31v3zWTWcjX4
+UeuFBOyHcX4MelxX+DPolavMJ/aJ+Osdc/rXz9QSxGuDRdeMR5MI4jk/An68
+P0F/PMc8yIc/UB/+UPbVQ//tf8wo9rej+Stb2bpU8nilI3CzcYSuSTrkWaI1
+CRwt6v/U3JAm4lPuub/UHU8j8Ffwa29CwGDgz3skVX0J9eG/o7f5y/HOBHtH
+n3tEahyzBysmmcgLR3STC0fGpZbNu89mbfgvH/32DIZmdTtTVfs3C/0ek126
+gpqFXsBcf4p47Ms5+n7Xc1qL0M9/+Z0tufsNjPtLYM5X9OPzsNZK19S428C8
+Cl+my19s/naPifF5oI+I5/yJir/Ql/MR/pBiv61saDMTfh9sVWXVhfFEC+H3
+IfIxD+dLVPwJ+MMv4LPP+OE210ED+cXW9MBimX9JYOlbgeRk0v5GUcYumT/q
+Ix56b3btHgzVWgj8D30+PvzHw8sujlN/V+Yn3tF04gsdXFoevkVd5qnTTtek
+iXj4Icf2qssjP59b0dvllvVPt54sy5PznU39xQ5Zf9wL4v2uCXt08JYEfwLD
+n4hX+VMCX/grvDz7fIvMbxP3X/0HM3LPyPyU/ViFHp8/Q9ILc6wEfgKGnxCv
+8pN4Xz7F9cL9Ea4n7hN6cL5CL85X6LFL2Z/Q62dlv0If5E96pTpvmttE+D4E
+5vsS/lX1Y+gH/9Yp+xD+Din7En5G/qa75DeSKZmhHzD64b6wD74vcX/7ni/t
+bJ1IF/9ftcP3rUx80sr+vx+ruO86/hz3sJ/n4x7w/+BpKjh3unwKiSyqifuy
+ztAplxdEvrhkAJaAqyKBcC9JYadWp9Tc7U1k0ZMnhr0BIzMfv7Jupoyxn6zt
+V336m3rG4wnioRee83yCfPDB+w71VO8bce//ALB7Ql0=
+               "], {{}, {
+                 RGBColor[0.4, 0.4, 0.4], {
+                  
+                  LineBox[{{1, 2}, {3, 4}, {1, 5}, {2, 6}, {2, 7}, {8, 9}, {6,
+                    10}, {10, 11}, {10, 12}, {13, 14}, {11, 5}, {5, 15}, {16, 
+                   17}, {7, 18}, {7, 19}, {12, 20}, {21, 22}, {12, 23}, {24, 
+                   25}, {15, 26}, {15, 27}, {26, 28}, {29, 30}, {28, 31}, {31,
+                    32}, {31, 33}, {33, 27}, {34, 35}, {18, 36}, {36, 37}, {
+                   38, 39}, {37, 40}, {37, 41}, {42, 43}, {41, 19}, {20, 
+                   44}, {45, 46}, {44, 47}, {47, 48}, {47, 49}, {50, 51}, {49,
+                    23}, {52, 53}, {54, 55}, {53, 56}, {53, 57}, {58, 59}, {
+                   59, 60}, {61, 62}, {59, 63}, {64, 65}, {66, 67}, {65, 
+                   68}, {65, 69}, {70, 71}, {71, 72}, {73, 74}, {71, 75}, {76,
+                    77}, {77, 78}, {79, 80}, {77, 81}, {82, 83}, {83, 84}, {
+                   85, 86}, {83, 87}, {56, 88}, {88, 89}, {90, 91}, {89, 
+                   92}, {92, 57}, {93, 94}, {60, 95}, {96, 97}, {95, 98}, {98,
+                    99}, {99, 63}, {100, 101}, {78, 102}, {103, 104}, {102, 
+                   105}, {105, 106}, {106, 81}, {107, 108}, {84, 109}, {109, 
+                   110}, {111, 112}, {110, 113}, {114, 115}, {113, 87}, {72, 
+                   116}, {116, 117}, {118, 119}, {117, 120}, {121, 122}, {120,
+                    75}, {68, 123}, {123, 124}, {125, 126}, {124, 127}, {127, 
+                   69}, {128, 129}}]}}, {
+                 RGBColor[0.291989, 0.437977, 0.888609], {
+                  
+                  LineBox[{{32, 130}, {131, 52}, {132, 58}, {40, 133}, {134, 
+                   64}, {135, 70}, {48, 136}, {137, 82}, {138, 76}}]}}, {
+                 Opacity[0], 
+                 EdgeForm[None], {
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[1, 0.2], "1"], Annotation[#, 1, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[2, 0.2], "2"], Annotation[#, 2, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[6, 0.2], "3"], Annotation[#, 3, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[10, 0.2], "4"], Annotation[#, 4, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[11, 0.2], "5"], Annotation[#, 5, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[5, 0.2], "6"], Annotation[#, 6, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[7, 0.2], "7"], Annotation[#, 7, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[12, 0.2], "8"], Annotation[#, 8, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[15, 0.2], "9"], Annotation[#, 9, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[26, 0.2], "10"], Annotation[#, 10, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[28, 0.2], "11"], Annotation[#, 11, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[31, 0.2], "12"], Annotation[#, 12, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[33, 0.2], "13"], Annotation[#, 13, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[27, 0.2], "14"], Annotation[#, 14, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[18, 0.2], "15"], Annotation[#, 15, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[36, 0.2], "16"], Annotation[#, 16, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[37, 0.2], "17"], Annotation[#, 17, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[41, 0.2], "18"], Annotation[#, 18, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[19, 0.2], "19"], Annotation[#, 19, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[20, 0.2], "20"], Annotation[#, 20, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[44, 0.2], "21"], Annotation[#, 21, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[47, 0.2], "22"], Annotation[#, 22, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[49, 0.2], "23"], Annotation[#, 23, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[23, 0.2], "24"], Annotation[#, 24, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[139, 0.2], "25"], Annotation[#, 25, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[140, 0.2], "26"], Annotation[#, 26, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[141, 0.2], "27"], Annotation[#, 27, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[53, 0.2], "28"], Annotation[#, 28, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[59, 0.2], "29"], Annotation[#, 29, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[65, 0.2], "30"], Annotation[#, 30, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[71, 0.2], "31"], Annotation[#, 31, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[77, 0.2], "32"], Annotation[#, 32, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[83, 0.2], "33"], Annotation[#, 33, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[56, 0.2], "34"], Annotation[#, 34, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[88, 0.2], "35"], Annotation[#, 35, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[89, 0.2], "36"], Annotation[#, 36, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[92, 0.2], "37"], Annotation[#, 37, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[57, 0.2], "38"], Annotation[#, 38, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[60, 0.2], "39"], Annotation[#, 39, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[95, 0.2], "40"], Annotation[#, 40, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[98, 0.2], "41"], Annotation[#, 41, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[99, 0.2], "42"], Annotation[#, 42, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[63, 0.2], "43"], Annotation[#, 43, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[78, 0.2], "44"], Annotation[#, 44, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[102, 0.2], "45"], Annotation[#, 45, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[105, 0.2], "46"], Annotation[#, 46, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[106, 0.2], "47"], Annotation[#, 47, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[81, 0.2], "48"], Annotation[#, 48, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[84, 0.2], "49"], Annotation[#, 49, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[109, 0.2], "50"], Annotation[#, 50, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[110, 0.2], "51"], Annotation[#, 51, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[113, 0.2], "52"], Annotation[#, 52, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[87, 0.2], "53"], Annotation[#, 53, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[72, 0.2], "54"], Annotation[#, 54, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[116, 0.2], "55"], Annotation[#, 55, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[117, 0.2], "56"], Annotation[#, 56, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[120, 0.2], "57"], Annotation[#, 57, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[75, 0.2], "58"], Annotation[#, 58, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[68, 0.2], "59"], Annotation[#, 59, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[123, 0.2], "60"], Annotation[#, 60, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[124, 0.2], "61"], Annotation[#, 61, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[127, 0.2], "62"], Annotation[#, 62, "Tooltip"]& ], 
+                  TagBox[
+                   TooltipBox[
+                    DiskBox[69, 0.2], "63"], 
+                   Annotation[#, 63, "Tooltip"]& ]}}}], {
+               GeometricTransformationBox[{
+                 RGBColor[0.291989, 0.437977, 0.888609], {
+                  
+                  FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
+                   0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
+                   0}}}, {{{0.261719, 4.5}, {0.261719, 11.6582}, {1.2334, 
+                   11.6582}, {4.99316, 6.03809}, {4.99316, 11.6582}, {5.90137,
+                    11.6582}, {5.90137, 4.5}, {4.92969, 4.5}, {1.16992, 
+                   10.125}, {1.16992, 4.5}}}]}}, {{{{0.030000000000000002`, 
+                  0.}, {0., 0.030000000000000002`}}, {-0.092446335, 
+                  3.263827}}, {{{0.030000000000000002`, 0.}, {0., 
+                  0.030000000000000002`}}, {-3.664846335, -2.923573}}, {{{
+                  0.030000000000000002`, 0.}, {0., 0.030000000000000002`}}, {
+                  3.479953665, -2.923573}}}]}}, Frame -> True, FrameStyle -> 
+             Directive[
+               Opacity[0.5], 
+               Thickness[Tiny], 
+               GrayLevel[0.7]], FrameTicks -> None, ImageSize -> Dynamic[{
+                UpTo[
+                8.1 CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
+                 Magnification]], 
+                UpTo[
+                4.1 CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
+                 Magnification]]}], PlotRangePadding -> None], 
+            GridBox[{{
+               RowBox[{
+                 TagBox["\"Formula: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  TemplateBox[{
+                    SubscriptBox["\"C\"", "60"], 
+                    SubscriptBox["\"H\"", "45"], 
+                    SubscriptBox["\"N\"", "3"]}, "RowDefault"], 
+                  "SummaryItem"]}]}, {
+               TagBox[
+                TemplateBox[{
+                  RowBox[{
+                    TagBox["\"Atoms: \"", "SummaryItemAnnotation"], 
+                    "\[InvisibleSpace]", 
+                    TagBox["63", "SummaryItem"], "\[InvisibleSpace]", 
+                    TagBox[
+                    "\"\[ThinSpace](108)\"", "SummaryItemAnnotation"]}], 
+                  "\"  \"", 
+                  RowBox[{
+                    TagBox["\"Bonds: \"", "SummaryItemAnnotation"], 
+                    "\[InvisibleSpace]", 
+                    TagBox["72", "SummaryItem"], "\[InvisibleSpace]", 
+                    TagBox[
+                    
+                    TemplateBox[{"\"\[ThinSpace]\"", "\"(\"", "117", "\")\""},
+                     "RowDefault"], "SummaryItemAnnotation"]}]}, 
+                 "RowDefault"], "SummaryItem"]}, {
+               RowBox[{
+                 TagBox["\"SMILES: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  PaneBox[
+                  "\"c1c(-c2ccc(N(c3ccccc3)c3ccccc3)cc2)cc(-c2ccc(N(c3ccccc3)\
+c3ccccc3)cc2)cc1-c1ccc(N(c2ccccc2)c2ccccc2)cc1\"", 
+                   ImageSize -> {{1, 300}, Automatic}, BaselinePosition -> 
+                   Baseline, ContentPadding -> False, FrameMargins -> 0, 
+                   StripOnInput -> True], "SummaryItem"]}]}, {
+               RowBox[{
+                 TagBox["\"InChIKey: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox["\"XVMUGTFNHXHZIP-UHFFFAOYSA-N\"", "SummaryItem"]}]}},
+              GridBoxAlignment -> {
+              "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
+             False, GridBoxItemSize -> {
+              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+             GridBoxSpacings -> {"Columns" -> {{2}}, "Rows" -> {{Automatic}}},
+              BaseStyle -> {
+              ShowStringCharacters -> False, NumberMarks -> False, 
+               PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
+          GridBoxAlignment -> {"Rows" -> {{Top}}}, AutoDelete -> False, 
+          GridBoxItemSize -> {
+           "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+          BaselinePosition -> {1, 1}]}, 
+       Dynamic[Typeset`open$$], ImageSize -> Automatic]},
+     "SummaryPanel"],
+    DynamicModuleValues:>{}], "]"}],
+  Molecule[{
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["N"], 
+    Atom["N"], 
+    Atom["N"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"], 
+    Atom["C"]}, {
+    Bond[{1, 2}, "Aromatic"], 
+    Bond[{2, 3}, "Aromatic"], 
+    Bond[{3, 4}, "Aromatic"], 
+    Bond[{4, 5}, "Aromatic"], 
+    Bond[{5, 6}, "Aromatic"], 
+    Bond[{6, 1}, "Aromatic"], 
+    Bond[{2, 7}, "Single"], 
+    Bond[{4, 8}, "Single"], 
+    Bond[{6, 9}, "Single"], 
+    Bond[{9, 10}, "Aromatic"], 
+    Bond[{10, 11}, "Aromatic"], 
+    Bond[{11, 12}, "Aromatic"], 
+    Bond[{12, 13}, "Aromatic"], 
+    Bond[{13, 14}, "Aromatic"], 
+    Bond[{14, 9}, "Aromatic"], 
+    Bond[{7, 15}, "Aromatic"], 
+    Bond[{15, 16}, "Aromatic"], 
+    Bond[{16, 17}, "Aromatic"], 
+    Bond[{17, 18}, "Aromatic"], 
+    Bond[{18, 19}, "Aromatic"], 
+    Bond[{19, 7}, "Aromatic"], 
+    Bond[{8, 20}, "Aromatic"], 
+    Bond[{20, 21}, "Aromatic"], 
+    Bond[{21, 22}, "Aromatic"], 
+    Bond[{22, 23}, "Aromatic"], 
+    Bond[{23, 24}, "Aromatic"], 
+    Bond[{24, 8}, "Aromatic"], 
+    Bond[{12, 25}, "Single"], 
+    Bond[{17, 26}, "Single"], 
+    Bond[{22, 27}, "Single"], 
+    Bond[{25, 28}, "Single"], 
+    Bond[{25, 29}, "Single"], 
+    Bond[{26, 30}, "Single"], 
+    Bond[{26, 31}, "Single"], 
+    Bond[{27, 32}, "Single"], 
+    Bond[{27, 33}, "Single"], 
+    Bond[{28, 34}, "Aromatic"], 
+    Bond[{34, 35}, "Aromatic"], 
+    Bond[{35, 36}, "Aromatic"], 
+    Bond[{36, 37}, "Aromatic"], 
+    Bond[{37, 38}, "Aromatic"], 
+    Bond[{38, 28}, "Aromatic"], 
+    Bond[{29, 39}, "Aromatic"], 
+    Bond[{39, 40}, "Aromatic"], 
+    Bond[{40, 41}, "Aromatic"], 
+    Bond[{41, 42}, "Aromatic"], 
+    Bond[{42, 43}, "Aromatic"], 
+    Bond[{43, 29}, "Aromatic"], 
+    Bond[{32, 44}, "Aromatic"], 
+    Bond[{44, 45}, "Aromatic"], 
+    Bond[{45, 46}, "Aromatic"], 
+    Bond[{46, 47}, "Aromatic"], 
+    Bond[{47, 48}, "Aromatic"], 
+    Bond[{48, 32}, "Aromatic"], 
+    Bond[{33, 49}, "Aromatic"], 
+    Bond[{49, 50}, "Aromatic"], 
+    Bond[{50, 51}, "Aromatic"], 
+    Bond[{51, 52}, "Aromatic"], 
+    Bond[{52, 53}, "Aromatic"], 
+    Bond[{53, 33}, "Aromatic"], 
+    Bond[{31, 54}, "Aromatic"], 
+    Bond[{54, 55}, "Aromatic"], 
+    Bond[{55, 56}, "Aromatic"], 
+    Bond[{56, 57}, "Aromatic"], 
+    Bond[{57, 58}, "Aromatic"], 
+    Bond[{58, 31}, "Aromatic"], 
+    Bond[{30, 59}, "Aromatic"], 
+    Bond[{59, 60}, "Aromatic"], 
+    Bond[{60, 61}, "Aromatic"], 
+    Bond[{61, 62}, "Aromatic"], 
+    Bond[{62, 63}, "Aromatic"], 
+    Bond[{63, 30}, "Aromatic"]}, AtomDiagramCoordinates -> CompressedData["
+1:eJxdkk8oRFEYxd+MzMaUZpqePzuFyGKyUhbuXUmykGwsTWY9ZRYWYpJsJAux
+nlhrRGLnvSjC0kJqLJSG2U0WDFkY+X63fFOv6XTOPd93zr1dmdxUNup5nml8
+v/8LZ8XO9GMl2Dseqp/P3QTgq/7hrdtCLfDkN3txN5Dt+IA38GDOoxdsYsmU
+uSy/B5wXbMDoxc/gJ7zD44ur6YneqEXfNjb53Z5vtuwLD+b8bn2wUuqJhOw7
+8vqw/1WOhcwHy/kQvfiH7A/P/kpv0YufhQczD73u9/CpunMUj9vy/Up+dDvu
+5gt2/uRbKp1kCjOt5DXgP/+Ey4Of+Mu+Cat4C49/S3ff8sZn0pJ/fn3z+a2Y
+svQDD2Y++urpQdNLIw99kY/8//eNWDXPMI988Lna2vV0JKX69lXfvusbPX2T
+X90/+7j7knmuH9nH9QcP5jz9a6z8Qvx4f/BgfV7lUe/ZV+/Zd/ePnr5+AM/J
+3rs=
+    "]],
+  Editable->False,
+  SelectWithContents->True,
+  Selectable->False]], "Output",
+ CellChangeTimes->{3.8268945914698467`*^9},
+ CellLabel->"Out[7]=",ExpressionUUID->"5533064b-c210-4333-b012-168cfdc14691"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   TagBox["QuantityArray",
+    "SummaryHead"], "[", 
+   DynamicModuleBox[{Typeset`open$$ = False, Typeset`embedState$$ = "Ready"}, 
+    TemplateBox[{
+      PaneSelectorBox[{False -> GridBox[{{
+            PaneBox[
+             ButtonBox[
+              DynamicBox[
+               FEPrivate`FrontEndResource[
+               "FEBitmaps", "SquarePlusIconMedium"]], 
+              ButtonFunction :> (Typeset`open$$ = True), Appearance -> None, 
+              BaseStyle -> {}, Evaluator -> Automatic, Method -> 
+              "Preemptive"], Alignment -> {Center, Center}, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}]], 
+            GraphicsBox[{
+              
+              RasterBox[{{{0.66, 0.66, 0.66}, {0.49, 0.49, 0.49}, {0.74, 0.74,
+                0.74}}, {{0.4, 0.4, 0.4}, {0.8, 0.8, 0.8}, {0.52, 0.52, 
+               0.52}}, {{0.72, 0.72, 0.72}, {0.59, 0.59, 0.59}, {0.79, 0.79, 
+               0.79}}, {{0.58, 0.58, 0.58}, {0.66, 0.66, 0.66}, {0.32, 0.32, 
+               0.32}}}, {{-0.25, -0.33}, {1.25, 2.33}}, {0, 1}], {{
+               Antialiasing -> False, 
+                GrayLevel[0.3], 
+                
+                LineBox[{{{-0.25, 2.33}, {1.25, 2.33}}, {{-0.25, 1.67}, {1.25,
+                  1.67}}, {{-0.25, 1.}, {1.25, 1.}}, {{-0.25, 0.33}, {1.25, 
+                 0.33}}, {{-0.25, -0.33}, {1.25, -0.33}}}]}, {
+               Antialiasing -> False, 
+                GrayLevel[0.3], 
+                
+                LineBox[{{{-0.25, -0.33}, {-0.25, 2.33}}, {{0.25, -0.33}, {
+                 0.25, 2.33}}, {{0.75, -0.33}, {0.75, 2.33}}, {{
+                 1.25, -0.33}, {1.25, 2.33}}}]}}}, PlotRangeClipping -> True, 
+             Background -> GrayLevel[0.93], 
+             Frame -> {{True, True}, {True, True}}, 
+             FrameLabel -> {None, None}, FrameStyle -> {{
+                Directive[
+                 GrayLevel[0.2], 
+                 AbsoluteThickness[1]], 
+                Directive[
+                 Thickness[Tiny], 
+                 GrayLevel[0.7]]}, {
+                Directive[
+                 Thickness[Tiny], 
+                 GrayLevel[0.7]], 
+                Directive[
+                 Thickness[Tiny], 
+                 GrayLevel[0.7]]}}, FrameTicks -> {{{{-0.25, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {0.583, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {1.417, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {2.25, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {0.028, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {0.306, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {0.861, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {1.139, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {1.694, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {1.972, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}}, None}, {
+               None, None}}, GridLinesStyle -> Directive[
+               GrayLevel[0.5, 0.4]], ImagePadding -> 2, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}], 
+             Method -> {
+              "DefaultBoundaryStyle" -> Automatic, "DefaultPlotStyle" -> 
+               Automatic}, PlotRangePadding -> {{1, 0}, {0, 0}}], 
+            GridBox[{{
+               RowBox[{
+                 TagBox["\"Dimensions: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  RowBox[{"{", 
+                    RowBox[{"63", ",", "3"}], "}"}], "SummaryItem"]}]}, {
+               RowBox[{
+                 TagBox["\"Unit: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  TagBox["\"Angstroms\"", Short[#, 2]& ], "SummaryItem"]}]}}, 
+             GridBoxAlignment -> {
+              "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
+             False, GridBoxItemSize -> {
+              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+             GridBoxSpacings -> {"Columns" -> {{2}}, "Rows" -> {{Automatic}}},
+              BaseStyle -> {
+              ShowStringCharacters -> False, NumberMarks -> False, 
+               PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
+          GridBoxAlignment -> {"Rows" -> {{Top}}}, AutoDelete -> False, 
+          GridBoxItemSize -> {
+           "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+          BaselinePosition -> {1, 1}], True -> GridBox[{{
+            PaneBox[
+             ButtonBox[
+              DynamicBox[
+               FEPrivate`FrontEndResource[
+               "FEBitmaps", "SquareMinusIconMedium"]], 
+              ButtonFunction :> (Typeset`open$$ = False), Appearance -> None, 
+              BaseStyle -> {}, Evaluator -> Automatic, Method -> 
+              "Preemptive"], Alignment -> {Center, Center}, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}]], 
+            GraphicsBox[{
+              
+              RasterBox[{{{0.66, 0.66, 0.66}, {0.49, 0.49, 0.49}, {0.74, 0.74,
+                0.74}}, {{0.4, 0.4, 0.4}, {0.8, 0.8, 0.8}, {0.52, 0.52, 
+               0.52}}, {{0.72, 0.72, 0.72}, {0.59, 0.59, 0.59}, {0.79, 0.79, 
+               0.79}}, {{0.58, 0.58, 0.58}, {0.66, 0.66, 0.66}, {0.32, 0.32, 
+               0.32}}}, {{-0.25, -0.33}, {1.25, 2.33}}, {0, 1}], {{
+               Antialiasing -> False, 
+                GrayLevel[0.3], 
+                
+                LineBox[{{{-0.25, 2.33}, {1.25, 2.33}}, {{-0.25, 1.67}, {1.25,
+                  1.67}}, {{-0.25, 1.}, {1.25, 1.}}, {{-0.25, 0.33}, {1.25, 
+                 0.33}}, {{-0.25, -0.33}, {1.25, -0.33}}}]}, {
+               Antialiasing -> False, 
+                GrayLevel[0.3], 
+                
+                LineBox[{{{-0.25, -0.33}, {-0.25, 2.33}}, {{0.25, -0.33}, {
+                 0.25, 2.33}}, {{0.75, -0.33}, {0.75, 2.33}}, {{
+                 1.25, -0.33}, {1.25, 2.33}}}]}}}, PlotRangeClipping -> True, 
+             Background -> GrayLevel[0.93], 
+             Frame -> {{True, True}, {True, True}}, 
+             FrameLabel -> {None, None}, FrameStyle -> {{
+                Directive[
+                 GrayLevel[0.2], 
+                 AbsoluteThickness[1]], 
+                Directive[
+                 Thickness[Tiny], 
+                 GrayLevel[0.7]]}, {
+                Directive[
+                 Thickness[Tiny], 
+                 GrayLevel[0.7]], 
+                Directive[
+                 Thickness[Tiny], 
+                 GrayLevel[0.7]]}}, FrameTicks -> {{{{-0.25, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {0.583, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {1.417, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {2.25, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {0.028, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {0.306, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {0.861, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {1.139, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {1.694, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {1.972, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}}, None}, {
+               None, None}}, GridLinesStyle -> Directive[
+               GrayLevel[0.5, 0.4]], ImagePadding -> 2, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}], 
+             Method -> {
+              "DefaultBoundaryStyle" -> Automatic, "DefaultPlotStyle" -> 
+               Automatic}, PlotRangePadding -> {{1, 0}, {0, 0}}], 
+            GridBox[{{
+               RowBox[{
+                 TagBox["\"Dimensions: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  RowBox[{"{", 
+                    RowBox[{"63", ",", "3"}], "}"}], "SummaryItem"]}]}, {
+               RowBox[{
+                 TagBox["\"Unit: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  TagBox["\"Angstroms\"", Short[#, 2]& ], "SummaryItem"]}]}, {
+               RowBox[{
+                 TagBox["\"MinMax: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  RowBox[{"{", 
+                    RowBox[{
+                    TemplateBox[{
+                    RowBox[{"-", "9.99236258592685`"}], "\"\[CapitalARing]\"",
+                     "\[ARing]ngstr\[ODoubleDot]ms", "\"Angstroms\""}, 
+                    "Quantity", SyntaxForm -> Mod], ",", 
+                    
+                    TemplateBox[{
+                    "8.465970165456989`", "\"\[CapitalARing]\"", 
+                    "\[ARing]ngstr\[ODoubleDot]ms", "\"Angstroms\""}, 
+                    "Quantity", SyntaxForm -> Mod]}], "}"}], 
+                  "SummaryItem"]}]}}, 
+             GridBoxAlignment -> {
+              "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
+             False, GridBoxItemSize -> {
+              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+             GridBoxSpacings -> {"Columns" -> {{2}}, "Rows" -> {{Automatic}}},
+              BaseStyle -> {
+              ShowStringCharacters -> False, NumberMarks -> False, 
+               PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
+          GridBoxAlignment -> {"Rows" -> {{Top}}}, AutoDelete -> False, 
+          GridBoxItemSize -> {
+           "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+          BaselinePosition -> {1, 1}]}, 
+       Dynamic[Typeset`open$$], ImageSize -> Automatic]},
+     "SummaryPanel"],
+    DynamicModuleValues:>{}], "]"}],
+  QuantityArray[
+   StructuredArray`StructuredData[{63, 3}, {CompressedData["
+1:eJwN0Pk7FGgAAOAZNMZ9DJMxB2MaaZUoV8V+n5IOIXIX6yhkKwl5qBmlY7vc
+NeVp0pSScVQkrLTflyJFIpQnIYpxH+MWtf3w/gMvOyjC7YAMgUAAv8n+ps95
+ena6YAa4qU6l+A5WoIAtI+8nnXLAIq1hzHmmF1w/6dNo9G0KRXaebqN6VQDK
++LuDy5ZJkDjUqc55zyTKcVfVY6ytBFQrzZd34QxSaZHN+Df9JhBZhHxILBSC
+6xFJMan531Dz4YT5efokKFgX0aBYnoU80kJuslYNAB8yTxoaKAVzs1IlcclF
+ZO537lLb4DRQFz4Ty8/K4bnY2keXnlcBxXli1uF+Eja28/haG1EGoMKQoCPk
+DFJztmvJXzEPfMqzc17rykLRuTsuQscsdJc1+8K2Yg7YU3XWWswrQGxxP2+H
+qRRFhh1ZGWUiA6uCeXVXajSgdyiB62gpRSlKbt32LmRola/h57WdAgOKH/a9
+RDfQltiFKt00MrxYQ+auE6nBirMcbrHLBKBrR5xub5CBxxrPc6kKJGjQ1CGR
+N58AE4rpW/uGhkBcRvwxQaMKDnYsbyVa9CB+XeaWLvc5MJomogZ0UXBHn2aW
+q1M3crgbm/P5/jIY89zcqS1FCw+flPj2UmoBGmhS+VWqAGULL5TkGqvj8dbA
+vj+rh0Fv/lAJJVgO3kiasms5QcKWclzTft4wqGs1NyEJlHFyu3oH+8sY2Jl9
+iAOiBwDz8be/PXsoODz2IGPYeAIY5XZ7r5RIQNmCmSHhMxUPTJfofEh/Dxbl
+aILu8kpUbUUnFJG08HTvlc25+3uRun0f5aTpCKrYq3q5pl0ZPzZ53lZcJkFF
+9OUxfteGUE2NbUIIQxXu6M89JeegAwkPi76/Ye5DDIotL9pQCR7UjU5uF9Gw
+V3WQ64CwFhRJNHt0shiYFbb1U5LuR2A4Km9s6PEarfezVzlRqgID2Gu3NSfR
+IX+DGSt2SQqCM+LqS800oc0UT8gcpMFDLW3XsZMUuQzvLubbU2Cmgkj6rpqG
+6983W3VefoTGMpxtdFf9/rx912Z3Agv7Hi+xZJA/A5Zn4jWVcj3s7z84+euP
+HrDRo9A33n0crHHateyBox7uYjZ8eAPqgW5C3J4n7rNInMe/aBBFgTurAnrX
+MVhQ9k5474XJBXBJzFDjbaJAAa9rNf+2PrRustr2poIE071MD/S2KkMP2qZ7
+GaP68NVKwgYvc2VIzv7KncuShfX7W2xSgvSgUoERP3I/GZ6UVG631JCDZkZI
+k7uZAQuS+SSR3U8Qn5kg7BJoQpMj3XyRux48zKnc62I1h7SbXIkUsTa8Gi1V
+dTqmD9VwEq16QA4bC8dZA4E60LteoyyVwoRa7Kwj3aOK2LDsDf8vsg4895Jb
+Z/pkORz3jCAdXkXG+RSHEOsZLfgleiD0JpsKI0Z5LkGVP9Gmrw0vNHxYuCXI
+9b3qu0foXolJj8MXIlRe72LgVqiPbV40Js0RX4LKfzoFS2wlGHs5ysyrzwAv
+LKbNyjwYA5vfBlec6lSESk/9QkNvcbDy0dXbwmQWwLp52t5oXyKs8risk0g3
+wJ7/CS2ys2dA3oT3ZvGacXCfL/BermGA75BMyEF/dqFUVDy8tG0ehS9mvqPt
+42BL9dK8aK9vaJX16yJRIgkvjohtX0EDfHTN6Z4uz3QUdoDkGpiphsdzWL7g
+mR6uKXPsu2DSB5LJqQ/ETarY6PgCqYbLxK+iXfNUZAZBgJpeEEsqh5WvxvwI
+uz4P/AKJP2Ifs/AowUph4uY0CMg7U6ubPQQaUm1nZYvYeHXBg6hDQ3MgS7SL
+XpgsBR25/VLqIgdrPezZTd41CNqZX1PSoohwrEJsGzXCwZ3VuRsOkTAKn/7l
+7OElDxtLz5NTr7Ex2Xdj8yfFVuQQ7h/QdIcKU848iavbw8T+cHU8Z813QL82
+OslbwYDxS4JwSSQTHyHKd/zwaQNutyonL/mxoMMFTpuMgi5+PmJ6Y8mlB4mL
+m99KltPhlCBGdk8CFS+UfVR87D+F0uS1P5oIteGXHTaxBZ5UbMdOLrG2Gkf/
+AxgO03w=
+     "], "Angstroms", {{1}, {2}}}]],
+  Editable->False,
+  SelectWithContents->True,
+  Selectable->False]], "Output",
+ CellChangeTimes->{3.8268945922142897`*^9},
+ CellLabel->"Out[9]=",ExpressionUUID->"83ab9414-0920-42c6-93b3-28914091cd7c"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{"A", "=", 
+  RowBox[{"Out", "[", "9", "]"}]}], "\[IndentingNewLine]", 
+ RowBox[{"MoleculeValue", "[", 
+  RowBox[{"mol1", ",", "\"\<AtomicSymbol\>\""}], "]"}]}], "Input",
+ CellChangeTimes->{{3.826894603355583*^9, 3.8268946764090595`*^9}},
+ CellLabel->"In[10]:=",ExpressionUUID->"48e18d20-258e-48cf-a482-fcc5bacd5e2d"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   TagBox["QuantityArray",
+    "SummaryHead"], "[", 
+   DynamicModuleBox[{Typeset`open$$ = False, Typeset`embedState$$ = "Ready"}, 
+    TemplateBox[{
+      PaneSelectorBox[{False -> GridBox[{{
+            PaneBox[
+             ButtonBox[
+              DynamicBox[
+               FEPrivate`FrontEndResource[
+               "FEBitmaps", "SquarePlusIconMedium"]], 
+              ButtonFunction :> (Typeset`open$$ = True), Appearance -> None, 
+              BaseStyle -> {}, Evaluator -> Automatic, Method -> 
+              "Preemptive"], Alignment -> {Center, Center}, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}]], 
+            GraphicsBox[{
+              
+              RasterBox[{{{0.66, 0.66, 0.66}, {0.49, 0.49, 0.49}, {0.74, 0.74,
+                0.74}}, {{0.4, 0.4, 0.4}, {0.8, 0.8, 0.8}, {0.52, 0.52, 
+               0.52}}, {{0.72, 0.72, 0.72}, {0.59, 0.59, 0.59}, {0.79, 0.79, 
+               0.79}}, {{0.58, 0.58, 0.58}, {0.66, 0.66, 0.66}, {0.32, 0.32, 
+               0.32}}}, {{-0.25, -0.33}, {1.25, 2.33}}, {0, 1}], {{
+               Antialiasing -> False, 
+                GrayLevel[0.3], 
+                
+                LineBox[{{{-0.25, 2.33}, {1.25, 2.33}}, {{-0.25, 1.67}, {1.25,
+                  1.67}}, {{-0.25, 1.}, {1.25, 1.}}, {{-0.25, 0.33}, {1.25, 
+                 0.33}}, {{-0.25, -0.33}, {1.25, -0.33}}}]}, {
+               Antialiasing -> False, 
+                GrayLevel[0.3], 
+                
+                LineBox[{{{-0.25, -0.33}, {-0.25, 2.33}}, {{0.25, -0.33}, {
+                 0.25, 2.33}}, {{0.75, -0.33}, {0.75, 2.33}}, {{
+                 1.25, -0.33}, {1.25, 2.33}}}]}}}, PlotRangeClipping -> True, 
+             Background -> GrayLevel[0.93], 
+             Frame -> {{True, True}, {True, True}}, 
+             FrameLabel -> {None, None}, FrameStyle -> {{
+                Directive[
+                 GrayLevel[0.2], 
+                 AbsoluteThickness[1]], 
+                Directive[
+                 Thickness[Tiny], 
+                 GrayLevel[0.7]]}, {
+                Directive[
+                 Thickness[Tiny], 
+                 GrayLevel[0.7]], 
+                Directive[
+                 Thickness[Tiny], 
+                 GrayLevel[0.7]]}}, FrameTicks -> {{{{-0.25, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {0.583, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {1.417, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {2.25, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {0.028, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {0.306, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {0.861, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {1.139, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {1.694, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {1.972, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}}, None}, {
+               None, None}}, GridLinesStyle -> Directive[
+               GrayLevel[0.5, 0.4]], ImagePadding -> 2, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}], 
+             Method -> {
+              "DefaultBoundaryStyle" -> Automatic, "DefaultPlotStyle" -> 
+               Automatic}, PlotRangePadding -> {{1, 0}, {0, 0}}], 
+            GridBox[{{
+               RowBox[{
+                 TagBox["\"Dimensions: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  RowBox[{"{", 
+                    RowBox[{"63", ",", "3"}], "}"}], "SummaryItem"]}]}, {
+               RowBox[{
+                 TagBox["\"Unit: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  TagBox["\"Angstroms\"", Short[#, 2]& ], "SummaryItem"]}]}}, 
+             GridBoxAlignment -> {
+              "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
+             False, GridBoxItemSize -> {
+              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+             GridBoxSpacings -> {"Columns" -> {{2}}, "Rows" -> {{Automatic}}},
+              BaseStyle -> {
+              ShowStringCharacters -> False, NumberMarks -> False, 
+               PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
+          GridBoxAlignment -> {"Rows" -> {{Top}}}, AutoDelete -> False, 
+          GridBoxItemSize -> {
+           "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+          BaselinePosition -> {1, 1}], True -> GridBox[{{
+            PaneBox[
+             ButtonBox[
+              DynamicBox[
+               FEPrivate`FrontEndResource[
+               "FEBitmaps", "SquareMinusIconMedium"]], 
+              ButtonFunction :> (Typeset`open$$ = False), Appearance -> None, 
+              BaseStyle -> {}, Evaluator -> Automatic, Method -> 
+              "Preemptive"], Alignment -> {Center, Center}, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}]], 
+            GraphicsBox[{
+              
+              RasterBox[{{{0.66, 0.66, 0.66}, {0.49, 0.49, 0.49}, {0.74, 0.74,
+                0.74}}, {{0.4, 0.4, 0.4}, {0.8, 0.8, 0.8}, {0.52, 0.52, 
+               0.52}}, {{0.72, 0.72, 0.72}, {0.59, 0.59, 0.59}, {0.79, 0.79, 
+               0.79}}, {{0.58, 0.58, 0.58}, {0.66, 0.66, 0.66}, {0.32, 0.32, 
+               0.32}}}, {{-0.25, -0.33}, {1.25, 2.33}}, {0, 1}], {{
+               Antialiasing -> False, 
+                GrayLevel[0.3], 
+                
+                LineBox[{{{-0.25, 2.33}, {1.25, 2.33}}, {{-0.25, 1.67}, {1.25,
+                  1.67}}, {{-0.25, 1.}, {1.25, 1.}}, {{-0.25, 0.33}, {1.25, 
+                 0.33}}, {{-0.25, -0.33}, {1.25, -0.33}}}]}, {
+               Antialiasing -> False, 
+                GrayLevel[0.3], 
+                
+                LineBox[{{{-0.25, -0.33}, {-0.25, 2.33}}, {{0.25, -0.33}, {
+                 0.25, 2.33}}, {{0.75, -0.33}, {0.75, 2.33}}, {{
+                 1.25, -0.33}, {1.25, 2.33}}}]}}}, PlotRangeClipping -> True, 
+             Background -> GrayLevel[0.93], 
+             Frame -> {{True, True}, {True, True}}, 
+             FrameLabel -> {None, None}, FrameStyle -> {{
+                Directive[
+                 GrayLevel[0.2], 
+                 AbsoluteThickness[1]], 
+                Directive[
+                 Thickness[Tiny], 
+                 GrayLevel[0.7]]}, {
+                Directive[
+                 Thickness[Tiny], 
+                 GrayLevel[0.7]], 
+                Directive[
+                 Thickness[Tiny], 
+                 GrayLevel[0.7]]}}, FrameTicks -> {{{{-0.25, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {0.583, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {1.417, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {2.25, 
+                  FormBox["\"\"", TraditionalForm], {0.25, 0}}, {0.028, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {0.306, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {0.861, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {1.139, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {1.694, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}, {1.972, 
+                  FormBox["\"\"", TraditionalForm], {0.12, 0}}}, None}, {
+               None, None}}, GridLinesStyle -> Directive[
+               GrayLevel[0.5, 0.4]], ImagePadding -> 2, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}], 
+             Method -> {
+              "DefaultBoundaryStyle" -> Automatic, "DefaultPlotStyle" -> 
+               Automatic}, PlotRangePadding -> {{1, 0}, {0, 0}}], 
+            GridBox[{{
+               RowBox[{
+                 TagBox["\"Dimensions: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  RowBox[{"{", 
+                    RowBox[{"63", ",", "3"}], "}"}], "SummaryItem"]}]}, {
+               RowBox[{
+                 TagBox["\"Unit: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  TagBox["\"Angstroms\"", Short[#, 2]& ], "SummaryItem"]}]}, {
+               RowBox[{
+                 TagBox["\"MinMax: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  RowBox[{"{", 
+                    RowBox[{
+                    TemplateBox[{
+                    RowBox[{"-", "9.99236258592685`"}], "\"\[CapitalARing]\"",
+                     "\[ARing]ngstr\[ODoubleDot]ms", "\"Angstroms\""}, 
+                    "Quantity", SyntaxForm -> Mod], ",", 
+                    
+                    TemplateBox[{
+                    "8.465970165456989`", "\"\[CapitalARing]\"", 
+                    "\[ARing]ngstr\[ODoubleDot]ms", "\"Angstroms\""}, 
+                    "Quantity", SyntaxForm -> Mod]}], "}"}], 
+                  "SummaryItem"]}]}}, 
+             GridBoxAlignment -> {
+              "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
+             False, GridBoxItemSize -> {
+              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+             GridBoxSpacings -> {"Columns" -> {{2}}, "Rows" -> {{Automatic}}},
+              BaseStyle -> {
+              ShowStringCharacters -> False, NumberMarks -> False, 
+               PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
+          GridBoxAlignment -> {"Rows" -> {{Top}}}, AutoDelete -> False, 
+          GridBoxItemSize -> {
+           "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+          BaselinePosition -> {1, 1}]}, 
+       Dynamic[Typeset`open$$], ImageSize -> Automatic]},
+     "SummaryPanel"],
+    DynamicModuleValues:>{}], "]"}],
+  QuantityArray[
+   StructuredArray`StructuredData[{63, 3}, {CompressedData["
+1:eJwN0Pk7FGgAAOAZNMZ9DJMxB2MaaZUoV8V+n5IOIXIX6yhkKwl5qBmlY7vc
+NeVp0pSScVQkrLTflyJFIpQnIYpxH+MWtf3w/gMvOyjC7YAMgUAAv8n+ps95
+ena6YAa4qU6l+A5WoIAtI+8nnXLAIq1hzHmmF1w/6dNo9G0KRXaebqN6VQDK
++LuDy5ZJkDjUqc55zyTKcVfVY6ytBFQrzZd34QxSaZHN+Df9JhBZhHxILBSC
+6xFJMan531Dz4YT5efokKFgX0aBYnoU80kJuslYNAB8yTxoaKAVzs1IlcclF
+ZO537lLb4DRQFz4Ty8/K4bnY2keXnlcBxXli1uF+Eja28/haG1EGoMKQoCPk
+DFJztmvJXzEPfMqzc17rykLRuTsuQscsdJc1+8K2Yg7YU3XWWswrQGxxP2+H
+qRRFhh1ZGWUiA6uCeXVXajSgdyiB62gpRSlKbt32LmRola/h57WdAgOKH/a9
+RDfQltiFKt00MrxYQ+auE6nBirMcbrHLBKBrR5xub5CBxxrPc6kKJGjQ1CGR
+N58AE4rpW/uGhkBcRvwxQaMKDnYsbyVa9CB+XeaWLvc5MJomogZ0UXBHn2aW
+q1M3crgbm/P5/jIY89zcqS1FCw+flPj2UmoBGmhS+VWqAGULL5TkGqvj8dbA
+vj+rh0Fv/lAJJVgO3kiasms5QcKWclzTft4wqGs1NyEJlHFyu3oH+8sY2Jl9
+iAOiBwDz8be/PXsoODz2IGPYeAIY5XZ7r5RIQNmCmSHhMxUPTJfofEh/Dxbl
+aILu8kpUbUUnFJG08HTvlc25+3uRun0f5aTpCKrYq3q5pl0ZPzZ53lZcJkFF
+9OUxfteGUE2NbUIIQxXu6M89JeegAwkPi76/Ye5DDIotL9pQCR7UjU5uF9Gw
+V3WQ64CwFhRJNHt0shiYFbb1U5LuR2A4Km9s6PEarfezVzlRqgID2Gu3NSfR
+IX+DGSt2SQqCM+LqS800oc0UT8gcpMFDLW3XsZMUuQzvLubbU2Cmgkj6rpqG
+6983W3VefoTGMpxtdFf9/rx912Z3Agv7Hi+xZJA/A5Zn4jWVcj3s7z84+euP
+HrDRo9A33n0crHHateyBox7uYjZ8eAPqgW5C3J4n7rNInMe/aBBFgTurAnrX
+MVhQ9k5474XJBXBJzFDjbaJAAa9rNf+2PrRustr2poIE071MD/S2KkMP2qZ7
+GaP68NVKwgYvc2VIzv7KncuShfX7W2xSgvSgUoERP3I/GZ6UVG631JCDZkZI
+k7uZAQuS+SSR3U8Qn5kg7BJoQpMj3XyRux48zKnc62I1h7SbXIkUsTa8Gi1V
+dTqmD9VwEq16QA4bC8dZA4E60LteoyyVwoRa7Kwj3aOK2LDsDf8vsg4895Jb
+Z/pkORz3jCAdXkXG+RSHEOsZLfgleiD0JpsKI0Z5LkGVP9Gmrw0vNHxYuCXI
+9b3qu0foXolJj8MXIlRe72LgVqiPbV40Js0RX4LKfzoFS2wlGHs5ysyrzwAv
+LKbNyjwYA5vfBlec6lSESk/9QkNvcbDy0dXbwmQWwLp52t5oXyKs8risk0g3
+wJ7/CS2ys2dA3oT3ZvGacXCfL/BermGA75BMyEF/dqFUVDy8tG0ehS9mvqPt
+42BL9dK8aK9vaJX16yJRIgkvjohtX0EDfHTN6Z4uz3QUdoDkGpiphsdzWL7g
+mR6uKXPsu2DSB5LJqQ/ETarY6PgCqYbLxK+iXfNUZAZBgJpeEEsqh5WvxvwI
+uz4P/AKJP2Ifs/AowUph4uY0CMg7U6ubPQQaUm1nZYvYeHXBg6hDQ3MgS7SL
+XpgsBR25/VLqIgdrPezZTd41CNqZX1PSoohwrEJsGzXCwZ3VuRsOkTAKn/7l
+7OElDxtLz5NTr7Ex2Xdj8yfFVuQQ7h/QdIcKU848iavbw8T+cHU8Z813QL82
+OslbwYDxS4JwSSQTHyHKd/zwaQNutyonL/mxoMMFTpuMgi5+PmJ6Y8mlB4mL
+m99KltPhlCBGdk8CFS+UfVR87D+F0uS1P5oIteGXHTaxBZ5UbMdOLrG2Gkf/
+AxgO03w=
+     "], "Angstroms", {{1}, {2}}}]],
+  Editable->False,
+  SelectWithContents->True,
+  Selectable->False]], "Output",
+ CellChangeTimes->{3.826894688209277*^9},
+ CellLabel->"Out[10]=",ExpressionUUID->"4c8a05a6-74c2-4ede-8313-413accb1ea29"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"N\"\>", ",", "\<\"N\"\>", ",", "\<\"N\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>"}], "}"}]], "Output",
+ CellChangeTimes->{3.8268946882242365`*^9},
+ CellLabel->"Out[11]=",ExpressionUUID->"d9e5f6cb-9072-4de3-8740-de5e59665150"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"B", "=", 
+  RowBox[{"Out", "[", "11", "]"}]}]], "Input",
+ CellChangeTimes->{{3.8268946957974463`*^9, 3.8268947112936516`*^9}},
+ CellLabel->"In[12]:=",ExpressionUUID->"a33087fd-6562-45b4-b12c-6e391cff1cd1"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"N\"\>", ",", "\<\"N\"\>", ",", "\<\"N\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>", 
+   ",", "\<\"C\"\>", ",", "\<\"C\"\>", ",", "\<\"C\"\>"}], "}"}]], "Output",
+ CellChangeTimes->{3.826894715060321*^9},
+ CellLabel->"Out[12]=",ExpressionUUID->"ff255d0c-c6d8-43a0-9e07-11bbcab147a8"]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"QuantityMagnitude", "@", 
+  RowBox[{"Normal", "@", "A"}]}]], "Input",
+ CellChangeTimes->{{3.8268947385977*^9, 3.8268947665526924`*^9}},
+ CellLabel->"In[13]:=",ExpressionUUID->"a1f4af10-ea31-453e-813e-3b802a16ae2c"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"1.4172263320817322`", ",", 
+      RowBox[{"-", "0.10513845457540441`"}], ",", "0.04356347954911288`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"0.6863169368451163`", ",", 
+      RowBox[{"-", "1.305458845010241`"}], ",", "0.10289137636015667`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "0.7193629328244263`"}], ",", 
+      RowBox[{"-", "1.2078388158320001`"}], ",", "0.11009383924677482`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "1.3907802219359318`"}], ",", "0.026926898572998726`", ",",
+       "0.02800564202475686`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "0.6146929069468453`"}], ",", "1.1943301912314055`", ",", 
+      RowBox[{"-", "0.02999894032454857`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"0.7862694773835225`", ",", "1.148780772419306`", ",", 
+      RowBox[{"-", "0.0125516134997916`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"1.3698354159331076`", ",", 
+      RowBox[{"-", "2.620620084798709`"}], ",", "0.1464093550029586`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "2.863490328250127`"}], ",", "0.09154944874649533`", ",", 
+      RowBox[{"-", "0.009473544281153878`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"1.5714529315199603`", ",", "2.388076116439191`", ",", 
+      RowBox[{"-", "0.029585306511199172`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"1.5454690529603927`", ",", "3.2466834716058504`", ",", 
+      RowBox[{"-", "1.1367890039285697`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"2.2726805763787117`", ",", "4.44389646485155`", ",", 
+      RowBox[{"-", "1.138255257165346`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"3.0387055972254937`", ",", "4.82064576549856`", ",", 
+      RowBox[{"-", "0.024169026331650634`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+     "3.070851825016605`", ",", "3.953220643358524`", ",", 
+      "1.081957001755923`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+     "2.3510046112084075`", ",", "2.7544367725150147`", ",", 
+      "1.0752028519901349`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"0.8725463255690028`", ",", 
+      RowBox[{"-", "3.726849455228543`"}], ",", 
+      RowBox[{"-", "0.5689706014839938`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"1.5207207337050188`", ",", 
+      RowBox[{"-", "4.968139985609453`"}], ",", 
+      RowBox[{"-", "0.5406883323077768`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"2.7059834485301364`", ",", 
+      RowBox[{"-", "5.140473562568663`"}], ",", "0.18810717524227216`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"3.2143536643681894`", ",", 
+      RowBox[{"-", "4.04263574680522`"}], ",", "0.8990778445865413`"}], "}"}],
+     ",", 
+    RowBox[{"{", 
+     RowBox[{"2.548377431337473`", ",", 
+      RowBox[{"-", "2.810463443065327`"}], ",", "0.8903695049595004`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "3.573253975856209`"}], ",", "0.9956216161434541`", ",", 
+      "0.7954402629739914`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "4.971032796642274`"}], ",", "1.0732232198565392`", ",", 
+      "0.7469670043913128`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "5.712891194153307`"}], ",", "0.24666811186209195`", ",", 
+      RowBox[{"-", "0.11219606317992609`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "5.006534578000303`"}], ",", 
+      RowBox[{"-", "0.6685372638523278`"}], ",", 
+      RowBox[{"-", "0.9121685398732797`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "3.6073122848278816`"}], ",", 
+      RowBox[{"-", "0.7411741479094953`"}], ",", 
+      RowBox[{"-", "0.8619830405158294`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"3.7638673725822143`", ",", "6.068376550969398`", ",", 
+      RowBox[{"-", "0.0017160865416155913`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"3.393776873041487`", ",", 
+      RowBox[{"-", "6.407087541424155`"}], ",", "0.19228855585019275`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "7.154391796497223`"}], ",", "0.345370731569007`", ",", 
+      RowBox[{"-", "0.18228604413148836`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+     "3.7141018902290397`", ",", "6.88850127434884`", ",", 
+      "1.1868811778436732`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"4.548548884315866`", ",", "6.4786285831333394`", ",", 
+      RowBox[{"-", "1.1439824992678735`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"4.8168895589725045`", ",", 
+      RowBox[{"-", "6.44316844083587`"}], ",", 
+      RowBox[{"-", "0.06161398345457733`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"2.645069571636206`", ",", 
+      RowBox[{"-", "7.624329516816819`"}], ",", "0.40674500791815194`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "7.929739318924048`"}], ",", "0.5677490009283692`", ",", 
+      "1.0206244985650543`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "7.823879320890495`"}], ",", "0.2206966666528691`", ",", 
+      RowBox[{"-", "1.4581788311697381`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+     "4.862436436039084`", ",", "7.527537902861306`", ",", 
+      "1.684456726225165`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+     "4.808094249843984`", ",", "8.31150951603085`", ",", 
+      "2.841204220190914`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+     "3.604441443002494`", ",", "8.465970165456989`", ",", 
+      "3.5255569890186695`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+     "2.452621742170212`", ",", "7.846249533141599`", ",", 
+      "3.0490445953523753`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+     "2.5084043200158117`", ",", "7.064594548146531`", ",", 
+      "1.891021752709018`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"4.64733738449865`", ",", "7.832643492230586`", ",", 
+      RowBox[{"-", "1.513503416385187`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"5.415111561411568`", ",", "8.223244158836941`", ",", 
+      RowBox[{"-", "2.6141454693206536`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"6.0956158480030735`", ",", "7.269106731854741`", ",", 
+      RowBox[{"-", "3.3666409151084142`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"6.008176785527928`", ",", "5.924990820102612`", ",", 
+      RowBox[{"-", "3.020227480194869`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"5.240449522044325`", ",", "5.532819388984731`", ",", 
+      RowBox[{"-", "1.9209921937134842`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "7.586981800319388`"}], ",", 
+      RowBox[{"-", "0.062111342246401385`"}], ",", "2.2325570745948244`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "8.338517257850548`"}], ",", "0.1484976475198979`", ",", 
+      "3.3915969645176727`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "9.449883981089199`"}], ",", "0.9891371569973721`", ",", 
+      "3.3586439668372643`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "9.807429533184878`"}], ",", "1.6255877285211708`", ",", 
+      "2.1691672437001666`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "9.053726927765528`"}], ",", "1.4149505705098782`", ",", 
+      "1.011147746247938`"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "9.033381241198478`"}], ",", 
+      RowBox[{"-", "0.4881825523262738`"}], ",", 
+      RowBox[{"-", "1.5800761457466912`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "9.6798843622657`"}], ",", 
+      RowBox[{"-", "0.604425748272212`"}], ",", 
+      RowBox[{"-", "2.8137830628320626`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "9.126497199052203`"}], ",", 
+      RowBox[{"-", "0.017909525108092905`"}], ",", 
+      RowBox[{"-", "3.9498926477505627`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "7.932858856316429`"}], ",", "0.6931805131878199`", ",", 
+      RowBox[{"-", "3.852374371607829`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "7.286888226544342`"}], ",", "0.8127506567504033`", ",", 
+      RowBox[{"-", "2.6182220140198496`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"1.5994653532627607`", ",", 
+      RowBox[{"-", "7.6723326892464145`"}], ",", "1.3505716667132748`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"0.8636602321906359`", ",", 
+      RowBox[{"-", "8.845733381524408`"}], ",", "1.5574764745495129`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"1.159833056104652`", ",", 
+      RowBox[{"-", "9.99236258592685`"}], ",", "0.8217813091081916`"}], "}"}],
+     ",", 
+    RowBox[{"{", 
+     RowBox[{"2.1814299812574354`", ",", 
+      RowBox[{"-", "9.963769843071956`"}], ",", 
+      RowBox[{"-", "0.125196006921711`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"2.9176431819784527`", ",", 
+      RowBox[{"-", "8.792114511913866`"}], ",", 
+      RowBox[{"-", "0.32878680827835227`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"5.658025270235674`", ",", 
+      RowBox[{"-", "7.331830884534511`"}], ",", "0.6305100809277169`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"7.035636722027699`", ",", 
+      RowBox[{"-", "7.361234345880229`"}], ",", "0.38049217781737965`"}], 
+     "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"7.591350372683637`", ",", 
+      RowBox[{"-", "6.508799912613602`"}], ",", 
+      RowBox[{"-", "0.572264477966591`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"6.77334515492536`", ",", 
+      RowBox[{"-", "5.6243401089211496`"}], ",", 
+      RowBox[{"-", "1.2731171058071582`"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"5.4025224161467955`", ",", 
+      RowBox[{"-", "5.584642279677123`"}], ",", 
+      RowBox[{"-", "1.0134818127572347`"}]}], "}"}]}], "}"}], 
+  "\[IndentingNewLine]", "\[IndentingNewLine]"}]], "Input",
+ CellChangeTimes->{{3.826894800758675*^9, 
+  3.8268948015768023`*^9}},ExpressionUUID->"9bf20b7c-41f9-4fa3-a76c-\
+f92ac9864ccd"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{"SetDirectory", "[", 
+  RowBox[{"NotebookDirectory", "[", "]"}], "]"}], "\[IndentingNewLine]", 
+ RowBox[{"Export", "[", 
+  RowBox[{"\"\<testexport.mol\>\"", ",", 
+   RowBox[{"{", 
+    RowBox[{"B", ",", "A"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"{", 
+     RowBox[{"\"\<VertexTypes\>\"", ",", "\"\<VertexCoordinates\>\""}], "}"}],
+     "}"}]}], "]"}]}], "Input",
+ CellChangeTimes->{{3.82689480982054*^9, 3.8268948995877004`*^9}, {
+  3.826894968684555*^9, 3.8268950510797434`*^9}},
+ CellLabel->"In[14]:=",ExpressionUUID->"990b47e4-f3aa-4712-83d8-22887fe7ae9c"],
+
+Cell[BoxData["\<\"C:\\\\Users\\\\houck\\\\Desktop\"\>"], "Output",
+ CellChangeTimes->{3.8268950547916403`*^9},
+ CellLabel->"Out[14]=",ExpressionUUID->"79e7c598-078d-4d21-a6a4-7187548e35b9"],
+
+Cell[BoxData["\<\"testexport.mol\"\>"], "Output",
+ CellChangeTimes->{3.8268950548265333`*^9},
+ CellLabel->"Out[15]=",ExpressionUUID->"d5ec26c4-53e0-416f-8a98-260b3bf6014e"]
+}, Open  ]]
+},
+WindowSize->{1152., 585.6},
+WindowMargins->{{
+  Automatic, -5.399999999999864}, {-5.399999999999977, Automatic}},
+FrontEndVersion->"12.1 for Microsoft Windows (64-bit) (June 19, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"a819ece8-54b6-4af2-b2ce-4d97544c5070"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 37904, 826, 107, "Input",ExpressionUUID->"48d29dee-9112-443c-8cd8-5a39cd962581"],
+Cell[38487, 850, 36916, 815, 68, "Output",ExpressionUUID->"5533064b-c210-4333-b012-168cfdc14691"],
+Cell[75406, 1667, 12531, 243, 64, "Output",ExpressionUUID->"83ab9414-0920-42c6-93b3-28914091cd7c"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[87974, 1915, 340, 6, 49, "Input",ExpressionUUID->"48e18d20-258e-48cf-a482-fcc5bacd5e2d"],
+Cell[88317, 1923, 12530, 243, 64, "Output",ExpressionUUID->"4c8a05a6-74c2-4ede-8313-413accb1ea29"],
+Cell[100850, 2168, 1370, 19, 53, "Output",ExpressionUUID->"d9e5f6cb-9072-4de3-8740-de5e59665150"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[102257, 2192, 229, 4, 28, "Input",ExpressionUUID->"a33087fd-6562-45b4-b12c-6e391cff1cd1"],
+Cell[102489, 2198, 1368, 19, 53, "Output",ExpressionUUID->"ff255d0c-c6d8-43a0-9e07-11bbcab147a8"]
+}, Open  ]],
+Cell[103872, 2220, 238, 4, 28, "Input",ExpressionUUID->"a1f4af10-ea31-453e-813e-3b802a16ae2c"],
+Cell[104113, 2226, 10106, 254, 673, InheritFromParent,ExpressionUUID->"9bf20b7c-41f9-4fa3-a76c-f92ac9864ccd"],
+Cell[CellGroupData[{
+Cell[114244, 2484, 588, 13, 49, "Input",ExpressionUUID->"990b47e4-f3aa-4712-83d8-22887fe7ae9c"],
+Cell[114835, 2499, 189, 2, 32, "Output",ExpressionUUID->"79e7c598-078d-4d21-a6a4-7187548e35b9"],
+Cell[115027, 2503, 172, 2, 81, "Output",ExpressionUUID->"d5ec26c4-53e0-416f-8a98-260b3bf6014e"]
+}, Open  ]]
+}
+]
+*)
+
